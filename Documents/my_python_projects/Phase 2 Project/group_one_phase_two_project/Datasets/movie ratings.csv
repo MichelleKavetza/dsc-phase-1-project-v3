@@ -1,0 +1,1561 @@
+,id,rating,director,theater_date,box_office,studio,genre
+0,1,R,William Friedkin,1971,20900803,Universal Pictures,Action and Adventure
+1,3,R,David Cronenberg,2012,600000,Entertainment One,Drama
+2,5,R,Allison Anders,1996,20900803,Universal Pictures,Drama
+3,6,R,Barry Levinson,1994,20900803,Universal Pictures,Drama
+4,7,NR,Rodney Bennett,1987,20900803,Universal Pictures,Drama
+5,8,PG,Jay Russell,2000,20900803,Warner Bros. Pictures,Drama
+6,10,PG-13,Jake Kasdan,2002,41032915,Paramount Pictures,Comedy
+7,13,R,Ray Lawrence,2006,224114,Sony Pictures Classics,Drama
+8,14,R,Taylor Hackford,2010,134904,Universal Pictures,Drama
+9,15,PG-13,Frank Marshall,1995,20900803,Universal Pictures,Action and Adventure
+10,17,R,Steven Spielberg,1987,20900803,Universal Pictures,Drama
+11,18,NR,Steven Spielberg,1987,20900803,Showtime Documentary Films,Documentary
+12,19,NR,Steven Spielberg,2002,20900803,Seventh Art Releasing,Documentary
+13,20,PG-13,William Friedkin,1968,20900803,Universal Pictures,Classics
+14,21,R,Peter Baldwin,1997,20900803,Universal Pictures,Comedy
+15,22,R,George Hickenlooper,2010,1039869,ATO Pictures,Comedy
+16,23,R,Steven Spielberg,2013,99165609,Sony Pictures,Drama
+17,24,PG,Rick Rosenthal,1987,20900803,Universal Pictures,Action and Adventure
+18,25,PG-13,Carl Erik Rinsch,2013,20518224,Universal Pictures,Action and Adventure
+19,26,R,Jim Jarmusch,2004,1971135,MGM,Art House and International
+20,27,NR,Steven Spielberg,1987,20900803,Universal Pictures,Musical and Performing Arts
+21,28,G,Steven Spielberg,1966,20900803,Universal Pictures,Classics
+22,29,PG,Martyn Burke,1981,20900803,Universal Pictures,Action and Adventure
+23,33,R,Keith Gordon,1996,20900803,Universal Pictures,Action and Adventure
+24,34,PG-13,John Woo,2000,20900803,Paramount Pictures,Action and Adventure
+25,35,R,Michael Polish,1999,20900803,Universal Pictures,Drama
+26,38,R,Roy Ward Baker,1970,20900803,Universal Pictures,Art House and International
+27,39,R,David Arquette,2007,20900803,After Dark Films/Freestyle Releasing,Horror
+28,40,R,John Sayles,2003,312136,Universal Pictures,Drama
+29,41,R,Ken Loach,2003,201010,Lions Gate Films,Drama
+30,42,G,Steven Spielberg,1987,20900803,Universal Pictures,Action and Adventure
+31,43,NR,William Wellman,1987,20900803,Universal Pictures,Classics
+32,44,R,Pauly Shore,2003,20900803,Regent Releasing,Comedy
+33,45,PG,Steve Boyum,1987,20900803,Universal Pictures,Comedy
+34,46,R,Peter Cattaneo,1997,20900803,Universal Pictures,Comedy
+35,48,NR,Edward Dmytryk,1987,20900803,Universal Pictures,Action and Adventure
+36,49,R,Andy Sidaris,1987,20900803,Universal Pictures,Action and Adventure
+37,50,R,Ivan Nagy,1987,20900803,Universal Pictures,Action and Adventure
+38,51,NR,Terence Young,1967,20900803,Universal Pictures,Mystery and Suspense
+39,52,PG,Jon Turteltaub,1995,20900803,Universal Pictures,Comedy
+40,53,PG,Steven Spielberg,1987,20900803,Universal Pictures,Drama
+41,54,NR,Paolo Sorrentino,2013,20900803,Janus Films,Comedy
+42,55,NR,Henning Schellerup,1987,20900803,Universal Pictures,Action and Adventure
+43,56,R,Allen Hughes|Albert Hughes,1995,20900803,Universal Pictures,Drama
+44,57,R,Steven Spielberg,2012,132088910,The Weinstein Company,Comedy
+45,58,PG,Woody Allen,1984,20900803,Universal Pictures,Comedy
+46,59,NR,Yimou Zhang,1987,20900803,Universal Pictures,Art House and International
+47,60,R,Bill Froehlich,1987,20900803,Universal Pictures,Horror
+48,61,R,James Wong,2006,54100000,New Line Cinema,Action and Adventure
+49,63,R,Steven Spielberg,1997,20900803,Universal Pictures,Action and Adventure
+50,64,PG-13,Pat Proft,1998,20900803,Universal Pictures,Comedy
+51,65,PG,Kevin Lima,2007,127706877,Walt Disney Pictures,Comedy
+52,66,R,Niels Arden Oplev,2013,10880926,FilmDistrict,Mystery and Suspense
+53,67,R,Matt Bettinelli-Olpin|Tyler Gillett,2014,20900803,20th Century Fox,Horror
+54,68,NR,Anatole Litvak,1940,20900803,Universal Pictures,Classics
+55,69,R,Ira Miller,1987,20900803,Universal Pictures,Comedy
+56,70,PG,Steven Spielberg,1981,20900803,Paramount Pictures,Action and Adventure
+57,71,PG,Alan Alda,1986,20900803,Universal Pictures,Comedy
+58,72,R,Otto Preminger,1965,20900803,Universal Pictures,Action and Adventure
+59,74,R,Terry Jones,1987,20900803,Universal Pictures,Comedy
+60,75,R,Patrick Lussier,2011,10706786,Summit Entertainment,Action and Adventure
+61,77,PG-13,Tom Hanks,2011,35565975,Universal Pictures,Comedy
+62,79,R,James Gray,1995,20900803,Universal Pictures,Action and Adventure
+63,80,NR,Werner Herzog,1987,20900803,Universal Pictures,Action and Adventure
+64,82,R,Richard Kelly,2001,20900803,Newmarket Film Group,Comedy
+65,83,G,Roy Rowland,1987,20900803,Universal Pictures,Comedy
+66,84,NR,Steven Spielberg,1987,20900803,Universal Pictures,Drama
+67,85,NR,Ted Tetzlaff,1987,20900803,Universal Pictures,Drama
+68,86,NR,William Beaudine,1987,20900803,Universal Pictures,Drama
+69,87,PG,Bruce Beresford,2010,4806750,Samuel Goldwyn Films,Art House and International
+70,88,R,Steven Spielberg,1998,20900803,Universal Pictures,Comedy
+71,89,NR,Steven Spielberg,1987,20900803,Universal Pictures,Comedy
+72,90,NR,Herbert Wilcox,1987,20900803,Universal Pictures,Drama
+73,92,NR,John Gilling,1966,20900803,Universal Pictures,Art House and International
+74,93,R,Ernst Lubitsch,1939,20900803,Universal Pictures,Classics
+75,94,R,Cheryl Dunye,2001,20900803,Universal Pictures,Art House and International
+76,95,R,Ben Younger,2016,5051927,Open Road Films,Drama
+77,96,R,Richard Linklater,1987,20900803,Universal Pictures,Comedy
+78,98,NR,Alan Hale,1987,20900803,Universal Pictures,Comedy
+79,99,PG-13,Steven Spielberg,2002,93300000,Warner Bros.,Comedy
+80,100,NR,Willem van de Sande Bakhuyzen,1987,20900803,Universal Pictures,Comedy
+81,101,R,Tommy Lee Wallace,1992,20900803,Universal Pictures,Comedy
+82,102,PG-13,Gary Wheeler,1987,20900803,Fox,Drama
+83,104,NR,Lech Majewski,1987,20900803,Universal Pictures,Action and Adventure
+84,105,NR,Steven Spielberg,1987,20900803,Universal Pictures,Animation
+85,106,R,Mike Clattenburg,2006,20900803,Screen Media Films,Comedy
+86,108,R,Derrick Borte,2010,1000000,Roadside Attractions,Comedy
+87,109,NR,Mike Figgis,1987,20900803,Universal Pictures,Comedy
+88,110,PG,Frank Capra,1946,20900803,Universal Pictures,Classics
+89,111,R,Steven Spielberg,2001,20900803,Universal Pictures,Drama
+90,115,G,John Lasseter,1999,20900803,Buena Vista Pictures,Animation
+91,116,R,Jane Campion,1989,20900803,Universal Pictures,Art House and International
+92,118,PG,Dean Parisot,1999,20900803,DreamWorks SKG,Comedy
+93,119,R,Brian DePalma,1998,20900803,Universal Pictures,Action and Adventure
+94,120,PG,Jerry Lewis,1987,20900803,Universal Pictures,Comedy
+95,121,PG-13,Thomas Schlamme,1993,20900803,Universal Pictures,Comedy
+96,123,NR,Robert Youngson,1968,20900803,Universal Pictures,Classics
+97,124,PG-13,Rob Bowman,2002,42929971,Buena Vista Distribution Compa,Action and Adventure
+98,126,NR,Sammo Hung Kam-Bo,1984,20900803,Universal Pictures,Action and Adventure
+99,127,R,Adrian Lyne,1990,20900803,Universal Pictures,Drama
+100,128,NR,Ye Ying|Zhang Li,1987,20900803,Universal Pictures,Art House and International
+101,130,NR,Hong Sang-soo,2008,20900803,New Yorker Films,Art House and International
+102,131,R,Brian Henson,2018,20900803,STXfilms,Action and Adventure
+103,133,R,Steven Spielberg,2003,20900803,Destination Films,Action and Adventure
+104,134,R,Guerdon Trueblood,1973,20900803,Universal Pictures,Drama
+105,135,R,Mamoru Oshii,2001,20900803,Miramax,Action and Adventure
+106,136,R,Christian Alvart,2010,13248477,Paramount Studios,Horror
+107,137,NR,Mohsen Makhmalbaf,1987,20900803,Universal Pictures,Art House and International
+108,138,PG-13,Jon Avnet,1996,20900803,Universal Pictures,Drama
+109,140,PG,Terrence Malick,1978,20900803,Universal Pictures,Drama
+110,142,NR,Steven Spielberg,1987,20900803,Universal Pictures,Comedy
+111,144,NR,Leo McCarey,1937,20900803,Universal Pictures,Classics
+112,145,R,Tom Schulman,1997,20900803,Universal Pictures,Comedy
+113,146,PG-13,Francesco Rosi,1990,20900803,Universal Pictures,Action and Adventure
+114,147,PG,Herbert Ross,1984,20900803,Universal Pictures,Comedy
+115,148,NR,Steven Spielberg,1987,20900803,Arrowstorm Entertainment,Action and Adventure
+116,149,NR,Hark Tsui,1986,20900803,Universal Pictures,Action and Adventure
+117,150,NR,Albert Lewin,1951,20900803,Universal Pictures,Classics
+118,151,R,Steven Shea,2010,20900803,Inception Media Group,Action and Adventure
+119,152,R,Steven Spielberg,1995,20900803,Universal Pictures,Comedy
+120,153,PG,Thor Freudenthal,2010,64001297,20th Century Fox,Comedy
+121,155,R,Jennifer Jason Leigh|Alan Cumming,2001,2974308,Fine Line Features,Comedy
+122,157,NR,Anthony Mann,1958,20900803,Universal Pictures,Classics
+123,158,PG-13,Clint Eastwood,2009,37431431,Warner Bros. Pictures,Drama
+124,159,PG-13,Sam Weisman,2003,22715908,Paramount Pictures,Comedy
+125,160,PG-13,Martin Campbell,2000,67771442,Columbia Pictures,Action and Adventure
+126,161,NR,Lance Comfort,1987,20900803,Universal Pictures,Art House and International
+127,162,PG,Greg Beeman,1992,20900803,Universal Pictures,Comedy
+128,163,NR,John Frankenheimer,1996,20900803,Universal Pictures,Drama
+129,164,NR,Camille Poisson,1987,20900803,Universal Pictures,Drama
+130,165,R,Jamie Blanks,2001,19755422,Warner Bros. Pictures,Horror
+131,167,R,Steven Spielberg,1987,20900803,Universal Pictures,Drama
+132,169,NR,Steven Spielberg,1943,20900803,Universal Pictures,Classics
+133,170,R,Bradley Cooper,1987,20900803,Warner Bros. Pictures,Drama
+134,171,NR,Hal Walker,1945,20900803,Universal Pictures,Classics
+135,174,NR,Boris Sagal,1987,20900803,Universal Pictures,Comedy
+136,177,NR,Federico Zampaglione,2011,20900803,IFC Films,Art House and International
+137,180,R,Uli Edel,1992,20900803,Universal Pictures,Drama
+138,181,R,Doug McHenry,1994,20900803,Universal Pictures,Drama
+139,182,PG,Thor Freudenthal,2009,73023275,Dreamworks Pictures,Action and Adventure
+140,183,NR,Archie Mayo,1942,20900803,Universal Pictures,Classics
+141,184,NR,Irvin Kershner,1987,20900803,Universal Pictures,Action and Adventure
+142,186,PG,David Kellogg,1991,20900803,Universal Pictures,Action and Adventure
+143,187,G,Michael Rubbo,1988,20900803,Universal Pictures,Action and Adventure
+144,188,R,Colin Trevorrow,2012,4007792,Film District,Comedy
+145,189,NR,Daniel Sackheim,1996,20900803,Universal Pictures,Drama
+146,191,NR,Rakeysh Omprakash Mehra|Rakeysh Omprakesh Mehra,2013,1626289,Reliance Entertainment,Drama
+147,192,R,Eric Rohmer,1983,20900803,Universal Pictures,Art House and International
+148,193,R,Jean-Loup Hubert,1987,20900803,Universal Pictures,Art House and International
+149,194,NR,Vincente Minnelli|John Gay,1963,20900803,Universal Pictures,Classics
+150,195,PG-13,Jon Amiel,1999,20900803,Twentieth Century Fox Home Entertainment,Action and Adventure
+151,196,PG-13,Jeff Byrd,2005,3998889,WARNER BROTHERS PICTURES,Comedy
+152,197,R,John Irvin,1980,20900803,Universal Pictures,Action and Adventure
+153,199,NR,Steven Spielberg,2017,20900803,Universal Pictures,Drama
+154,200,G,Leo McCarey,1944,20900803,Universal Pictures,Classics
+155,201,R,Boaz Yakin,1994,20900803,Universal Pictures,Drama
+156,204,PG-13,Jackie Chan,1985,20900803,Universal Pictures,Action and Adventure
+157,205,NR,Steven Spielberg,1922,20900803,Universal Pictures,Art House and International
+158,206,R,Don Coscarelli,1994,20900803,Universal Pictures,Horror
+159,210,PG-13,Derek Cianfrance,2016,12533911,Universal Pictures,Drama
+160,211,R,Lars von Trier,2000,2839256,Fine Line Features,Drama
+161,212,PG-13,Brian Hecker,2009,20900803,Universal Pictures,Comedy
+162,213,NR,Edoardo Anton|Henry Cass,1950,20900803,Universal Pictures,Classics
+163,214,NR,Steven Spielberg,1987,20900803,Universal Pictures,Drama
+164,216,NR,Lowell Sherman,1933,20900803,Universal Pictures,Classics
+165,218,PG-13,Gore Verbinski,2002,128579698,DreamWorks SKG,Drama
+166,219,PG,John Guillermin,1966,20900803,Universal Pictures,Action and Adventure
+167,221,PG,Richard Brooks,1957,20900803,Universal Pictures,Classics
+168,222,G,Charles Walters,1962,20900803,Universal Pictures,Action and Adventure
+169,223,NR,Steven Spielberg,1994,20900803,Universal Pictures,Documentary
+170,224,G,Norman Jewison,1965,20900803,Universal Pictures,Classics
+171,225,NR,Bobby Roth,1997,20900803,Universal Pictures,Drama
+172,226,R,Ronny Yu,1998,20900803,Universal Pictures,Action and Adventure
+173,227,PG,Todd Graff,2009,5205343,Summit Entertainment,Comedy
+174,229,NR,Val Guest,1957,20900803,Universal Pictures,Comedy
+175,232,PG,David Carson,1994,20900803,Universal Pictures,Action and Adventure
+176,233,PG-13,Ron Underwood,1990,20900803,Universal Pictures,Comedy
+177,234,PG-13,Steven Spielberg,2006,54983983,Buena Vista Pictures,Action and Adventure
+178,235,R,Ridley Scott,2000,20900803,Dreamworks Distribution LLC,Action and Adventure
+179,236,NR,Steven Spielberg,1934,20900803,Universal Pictures,Classics
+180,237,NR,Geoffrey Sax,1996,20900803,Universal Pictures,Action and Adventure
+181,238,R,Anna Biller,2007,20900803,Cult Epics,Art House and International
+182,239,PG,Steven Spielberg,1987,20900803,Universal Pictures,Comedy
+183,240,NR,George Cukor|Ernst Lubitsch,1932,20900803,Universal Pictures,Classics
+184,242,R,Craig Bolotin,1999,20900803,20th Century Fox,Drama
+185,246,PG-13,Jackie Chan,1980,20900803,Universal Pictures,Action and Adventure
+186,247,NR,Steven Spielberg,1987,20900803,Universal Pictures,Art House and International
+187,248,R,Mike Barker,1999,20900803,Universal Pictures,Drama
+188,249,R,Stan Lathan|Vondie Curtis-Hall,2006,21318194,Focus Features,Action and Adventure
+189,250,R,Neil Jordan,2013,84293,IFC Films,Art House and International
+190,251,R,Todd Haynes,2015,8518148,The Weinstein Company,Drama
+191,252,R,Robert Resnikoff,1990,20900803,Universal Pictures,Horror
+192,254,PG,Richard Fleischer,1973,20900803,Universal Pictures,Classics
+193,255,R,Renny Harlin,1988,20900803,Universal Pictures,Horror
+194,256,R,Jack Bender,1991,20900803,Universal Pictures,Horror
+195,258,NR,Steven Spielberg,1987,20900803,Universal Pictures,Art House and International
+196,259,NR,Steven Spielberg,1987,20900803,Universal Pictures,Drama
+197,261,NR,David Butler,1950,20900803,Universal Pictures,Classics
+198,263,R,Rob Zombie,2003,12583510,Lions Gate Films Inc.,Horror
+199,264,R,Joseph Ruben,1991,20900803,Universal Pictures,Drama
+200,265,NR,Steven Spielberg,1987,20900803,Universal Pictures,Special Interest
+201,267,R,Mark Helfrich,2007,35000629,Lionsgate Films,Comedy
+202,269,R,Rand Ravitch|Rand Ravich,1999,20900803,New Line Home Entertainment,Horror
+203,270,R,Tommy Chong,1983,20900803,Universal Pictures,Comedy
+204,271,R,Debra Granik,2005,20900803,Laemmle/Zeller Films,Drama
+205,272,PG,Gordon Parks,1987,20900803,Universal Pictures,Drama
+206,273,PG,Steven Spielberg,1994,20900803,Universal Pictures,Action and Adventure
+207,274,R,Steven Spielberg,2016,976847,Universal Pictures,Action and Adventure
+208,275,NR,Gordon Chan,1991,20900803,Universal Pictures,Action and Adventure
+209,276,R,Carl Reiner,1979,20900803,Universal Pictures,Comedy
+210,277,NR,Robert Mulligan,1966,20900803,Universal Pictures,Classics
+211,278,R,Bill Bennett,1987,20900803,Universal Pictures,Comedy
+212,279,R,Peter Jackson,1994,20900803,Universal Pictures,Drama
+213,280,NR,Lo Po-Shan,1987,20900803,Universal Pictures,Art House and International
+214,281,R,Seth MacFarlane,2014,37331031,Universal Pictures,Comedy
+215,282,NR,Bob Badway,2009,20900803,IFC Films,Horror
+216,283,NR,Mickey Keating,2016,20900803,Universal Pictures,Mystery and Suspense
+217,284,PG,Clive Donner,1980,20900803,Universal Pictures,Action and Adventure
+218,285,R,Tim Heidecker|Eric Wareheim,2012,145778,Magnolia Pictures,Comedy
+219,286,PG-13,Sam Irwin,1994,20900803,Universal Pictures,Action and Adventure
+220,287,NR,Steven Spielberg,1960,20900803,Universal Pictures,Classics
+221,288,NR,Nattawut Poonpiriya,1987,20900803,Universal Pictures,Art House and International
+222,289,NR,Steven Spielberg,1987,20900803,Universal Pictures,Drama
+223,290,R,Michael Mann,2006,63400000,Universal Pictures,Action and Adventure
+224,292,R,Bruce Beresford,1991,20900803,Universal Pictures,Action and Adventure
+225,293,NR,Jack Curtis,1964,20900803,Universal Pictures,Classics
+226,295,PG-13,Jonathan Kaplan,1989,20900803,Universal Pictures,Drama
+227,296,PG,Steven Spielberg,1970,20900803,Universal Pictures,Action and Adventure
+228,298,NR,Sidney Gilliat,1987,20900803,Universal Pictures,Drama
+229,299,PG-13,Steven Spielberg,2006,7009668,Sony Pictures Entertainment,Action and Adventure
+230,300,PG-13,Ryan Murphy,2010,80574010,Sony Pictures,Drama
+231,301,PG-13,David Koepp,2004,47781388,Columbia Pictures,Drama
+232,302,R,Philip Kaufman,1993,20900803,Universal Pictures,Action and Adventure
+233,303,NR,Richard Lang,1987,20900803,Universal Pictures,Action and Adventure
+234,304,R,Jennifer Westfeldt,2012,5600000,Roadside Attractions,Comedy
+235,305,R,Ridley Scott,1982,20900803,Universal Pictures,Drama
+236,306,NR,Joseph Losey|Leslie Norman,1956,20900803,Universal Pictures,Classics
+237,308,NR,Steven Spielberg,1987,20900803,Universal Pictures,Horror
+238,309,NR,Stanley Kramer,1965,20900803,Universal Pictures,Classics
+239,310,PG,Anthony Harvey,1979,20900803,Universal Pictures,Action and Adventure
+240,311,PG-13,Paolo Taviani|Vittorio Taviani,1993,20900803,Universal Pictures,Art House and International
+241,312,R,Bertrand Tavernier,1987,20900803,Universal Pictures,Art House and International
+242,313,R,David Lowery,2013,200000,IFC Films,Drama
+243,314,PG,William Dear,1987,20900803,Universal Pictures,Comedy
+244,317,NR,Christopher Roth,1987,20900803,Universal Pictures,Art House and International
+245,320,R,James Bryan,1987,20900803,Universal Pictures,Horror
+246,321,R,Seth Gordon,2013,134455175,Universal Pictures,Comedy
+247,322,R,Guillermo del Toro,2015,25957696,Universal Pictures,Horror
+248,323,G,Martin Ritt,1967,20900803,Universal Pictures,Action and Adventure
+249,326,PG-13,Mike Leigh,2010,3200000,Sony Classics,Comedy
+250,327,NR,Steven Spielberg,1987,20900803,Universal Pictures,Drama
+251,328,NR,Douglas Heyes,1964,20900803,Universal Pictures,Action and Adventure
+252,329,PG-13,Laurence Connor,1987,20900803,NCM/Fathom,Musical and Performing Arts
+253,331,PG-13,Jeffrey Levy-Hinte,2009,200000,Sony Pictures Classics,Documentary
+254,332,G,John Mathew Matthan,1999,20900803,Universal Pictures,Action and Adventure
+255,333,R,Ingmar Bergman,1968,20900803,Universal Pictures,Drama
+256,334,R,Tim Burton,1994,20900803,Universal Pictures,Comedy
+257,335,NR,John Sturges,1987,20900803,Universal Pictures,Drama
+258,336,NR,Steven Spielberg,1987,20900803,Universal Pictures,Drama
+259,337,R,Yimou Zhang,2011,308164,Wrekin Hill Entertainment,Art House and International
+260,338,PG-13,Clint Eastwood,2010,32741596,Warner Bros. Pictures,Drama
+261,345,PG-13,Tyler Perry,2014,15986272,Lionsgate Films,Comedy
+262,346,PG-13,Joan Chen,2000,20900803,MGM,Drama
+263,348,NR,Frank Tashlin,1956,20900803,Universal Pictures,Classics
+264,349,G,John Henderson,1998,20900803,Universal Pictures,Kids and Family
+265,350,NR,Steven Spielberg,1953,20900803,Universal Pictures,Classics
+266,352,PG,Michael Goldenberg,1995,20900803,Universal Pictures,Drama
+267,353,NR,Darko Lungulov,2010,20900803,Independant Pictures,Art House and International
+268,354,NR,David Butler,1943,20900803,Universal Pictures,Classics
+269,355,R,Michael Tiddes,2014,13710572,Open Road Films,Comedy
+270,356,R,Laurence Dunmore,2006,4756532,Weinstein Company,Drama
+271,357,PG,Jorge Blanco,2009,42194060,Sony Pictures/TriStar Pictures,Action and Adventure
+272,359,PG,Sylvester Stallone,1982,20900803,MGM,Action and Adventure
+273,361,NR,Roberto Sanchez Santos,1987,20900803,Universal Pictures,Drama
+274,363,NR,Terence Fisher,1966,20900803,Universal Pictures,Horror
+275,364,PG-13,Barry Sonnenfeld,1993,20900803,Universal Pictures,Comedy
+276,365,R,Fred Haines,1987,20900803,Universal Pictures,Classics
+277,366,PG,Timothy Hutton,1998,20900803,Universal Pictures,Drama
+278,367,PG-13,Stephen Bradley,2015,347321,Aspiration Media,Drama
+279,368,G,Yasujiro Ozu,1953,20900803,Universal Pictures,Art House and International
+280,369,R,Abel Ferrara,1989,20900803,Universal Pictures,Action and Adventure
+281,370,PG-13,Don Roos,2000,20900803,Universal Pictures,Drama
+282,372,NR,Sam Hoffman,1987,20900803,Universal Pictures,Comedy
+283,373,R,Damon Dash|David Daniel,2002,20900803,Universal Pictures,Action and Adventure
+284,374,NR,Roy Del Ruth,1987,20900803,Universal Pictures,Comedy
+285,375,R,Blair Treu,2007,20900803,Universal Pictures,Comedy
+286,376,PG-13,Diane Keaton,2000,20900803,Sony Pictures Home Entertainment,Comedy
+287,377,R,Ang Lee,2009,7366736,Focus Features,Comedy
+288,379,R,Katsuhito Ishii,2003,20900803,Kino International,Action and Adventure
+289,380,NR,Dan Verete,2002,20900803,Universal Pictures,Art House and International
+290,384,NR,George Stevens,1942,20900803,Universal Pictures,Classics
+291,385,NR,Manfred Kohler,1987,20900803,Universal Pictures,Action and Adventure
+292,386,PG,Bob Kelljan,1973,20900803,Universal Pictures,Action and Adventure
+293,387,NR,Tom Gries,1968,20900803,Universal Pictures,Action and Adventure
+294,388,G,Jules Dassin,1947,20900803,Criterion Collection,Classics
+295,390,PG-13,Adam Silver|Ben Hayflick,2010,20900803,Universal Pictures,Action and Adventure
+296,391,PG,Matt Clark,1987,20900803,Universal Pictures,Comedy
+297,392,R,Gregory Nava,1995,20900803,Universal Pictures,Drama
+298,393,PG,Richard Brooks,1960,20900803,Universal Pictures,Classics
+299,394,PG-13,Greg Berlanti,2018,20900803,20th Century Fox,Drama
+300,396,R,Jonathan Demme,1986,20900803,Universal Pictures,Art House and International
+301,397,PG,Elia Kazan,1951,20900803,Universal Pictures,Classics
+302,398,R,Steven Spielberg,2002,20900803,USA Films,Comedy
+303,400,PG-13,Roger Donaldson,1997,20900803,Universal Pictures,Action and Adventure
+304,401,R,Steven Spielberg,1993,20900803,Universal Pictures,Drama
+305,402,NR,Tom Barman,1987,20900803,Corridor,Comedy
+306,403,NR,Sidney Miller,1987,20900803,Universal Pictures,Comedy
+307,404,PG,Arthur Hiller,1987,20900803,Universal Pictures,Horror
+308,406,PG,Vladimir Grammatikov,1987,20900803,Universal Pictures,Action and Adventure
+309,408,PG,Tony Maylam,1987,20900803,Universal Pictures,Action and Adventure
+310,409,R,Barry Battles,2013,20900803,Phase 4 Films,Comedy
+311,410,R,Darnell Martin,2008,8134217,Sony Pictures,Drama
+312,411,NR,Jack Bernhard,1948,20900803,Universal Pictures,Classics
+313,412,R,William Sachs,1980,20900803,Universal Pictures,Comedy
+314,413,NR,Sarik Andreasyan,1987,20900803,Universal Pictures,Action and Adventure
+315,414,PG-13,Georges Lautner,1987,20900803,Universal Pictures,Art House and International
+316,415,PG,Bernardo Bertolucci,1982,20900803,Universal Pictures,Art House and International
+317,417,R,Steven Spielberg,1998,20900803,Goldwyn Films,Art House and International
+318,418,PG-13,Pete Travis,2008,72266306,Sony Pictures Releasing,Action and Adventure
+319,419,PG-13,Jennifer Yuh Nelson,2018,20900803,20th Century Fox,Mystery and Suspense
+320,420,NR,Jack Webb,1955,20900803,Universal Pictures,Classics
+321,421,NR,Ettore Scola,1987,20900803,Universal Pictures,Art House and International
+322,422,R,Gerald Thomas,1987,20900803,Universal Pictures,Comedy
+323,423,NR,Dave Grohl,2013,419361,Variance Films,Documentary
+324,425,PG-13,Mel Smith,1997,20900803,Universal Pictures,Comedy
+325,426,NR,William Witney,1948,20900803,Universal Pictures,Action and Adventure
+326,427,PG,Bruce Beresford,2002,1341151,MGM/UA,Art House and International
+327,428,PG-13,Steven Spielberg,1990,20900803,Twentieth Century Fox Home Entertainment,Action and Adventure
+328,430,PG,Steven Spielberg,1987,20900803,Universal Pictures,Drama
+329,432,PG-13,Steven Spielberg,2001,2839456,Paramount Pictures,Comedy
+330,433,PG-13,Doug Liman,2002,121500000,Universal Pictures,Action and Adventure
+331,435,NR,Giuseppe Bertolucci,1977,20900803,Universal Pictures,Art House and International
+332,436,NR,Justin Price,2010,20900803,Vanguard Cinema,Mystery and Suspense
+333,437,PG,Lucio Fulci,1987,20900803,MVD Entertainment Group,Action and Adventure
+334,438,R,Bruce Malmuth,1981,20900803,Universal Pictures,Action and Adventure
+335,439,NR,Werner Herzog,1977,20900803,Universal Pictures,Art House and International
+336,440,R,Bryan Forbes,1968,20900803,Universal Pictures,Classics
+337,442,R,Tobe Hooper,1985,20900803,Universal Pictures,Action and Adventure
+338,443,PG-13,Tim Story,2005,154485963,20th Century Fox,Action and Adventure
+339,444,PG-13,Anthony Page,1987,20900803,Universal Pictures,Drama
+340,445,R,Alan Rudolph,1991,20900803,Universal Pictures,Comedy
+341,446,NR,William Beaudine,1941,20900803,Universal Pictures,Action and Adventure
+342,447,R,Jack Nicholson,1971,20900803,Universal Pictures,Drama
+343,448,NR,Ralph Nelson,1964,20900803,Universal Pictures,Action and Adventure
+344,450,PG,Stewart Raffill,1987,20900803,Universal Pictures,Comedy
+345,451,R,David Mamet,1994,20900803,Universal Pictures,Drama
+346,452,PG,Kevin Munroe,2007,54132596,Warner Bros. Pictures,Action and Adventure
+347,453,PG,John Schultz,2009,24967943,20th Century Fox,Action and Adventure
+348,455,NR,Alexander Kluge,1987,20900803,Universal Pictures,Drama
+349,456,R,Christophe Gans,2006,46982632,Sony Pictures,Action and Adventure
+350,457,R,Ken Wiederhorn,1981,20900803,Universal Pictures,Drama
+351,458,PG-13,Woody Allen,2011,55400000,Sony Pictures Classics,Comedy
+352,459,NR,Robert Hartford-Davis,1987,20900803,Universal Pictures,Art House and International
+353,460,R,Martha Coolidge,1991,20900803,Universal Pictures,Comedy
+354,461,PG,Robert Young,1999,20900803,Universal Pictures,Action and Adventure
+355,462,R,Danny Cannon,1998,20900803,Universal Pictures,Horror
+356,465,PG,Rowdy Herrington,2004,2536460,Film Foundry Releasing,Drama
+357,466,R,Clint Eastwood,1971,20900803,Universal Pictures,Mystery and Suspense
+358,468,PG-13,Brian Robbins,2001,39697363,Paramount Pictures,Comedy
+359,469,PG-13,Leon Gast,2010,2367,Magnolia Pictures,Documentary
+360,470,PG-13,Steven Spielberg,1986,20900803,Universal Pictures,Action and Adventure
+361,471,R,Steven Spielberg,1998,20900803,Universal Pictures,Comedy
+362,472,NR,Torun Lian,1987,20900803,Universal Pictures,Drama
+363,473,NR,Jean-Jacques Beineix,1986,20900803,Universal Pictures,Art House and International
+364,474,NR,Steven Spielberg,1987,20900803,Universal Pictures,Art House and International
+365,475,NR,Jacques Tourneur,1946,20900803,Universal Pictures,Action and Adventure
+366,476,R,Steven Spielberg,1987,20900803,Universal Pictures,Art House and International
+367,477,R,Steven Spielberg,2003,140901,Universal Pictures,Art House and International
+368,478,R,Tinto Brass,1976,20900803,Universal Pictures,Art House and International
+369,479,R,Jeremy Podeswa,2000,20900803,Universal Pictures,Comedy
+370,482,PG,Simon Wells,2011,21379315,Walt Disney Pictures,Action and Adventure
+371,483,NR,Jayro Bustamante,2016,292923,Universal Pictures,Art House and International
+372,484,NR,William Slater,1987,20900803,Universal Pictures,Comedy
+373,486,NR,Nanni Moretti,2012,480926,IFC Films,Comedy
+374,487,PG,Steven Spielberg,1987,20900803,Universal Pictures,Drama
+375,488,PG,Steven Spielberg,2007,126597121,Paramount Pictures,Animation
+376,489,R,Tony Bill,1990,20900803,Universal Pictures,Comedy
+377,490,NR,Rohit Shetty,1987,1231550,Eros Entertainment,Action and Adventure
+378,491,PG,Adam Shankman,2005,82468131,20th Century Fox,Comedy
+379,492,NR,Richard Stroud,1987,20900803,Universal Pictures,Action and Adventure
+380,493,R,Larry Cohen,1984,20900803,Universal Pictures,Drama
+381,494,G,Hayao Miyazaki,1988,20900803,Universal Pictures,Animation
+382,495,PG,Steven Spielberg,1987,20900803,Universal Pictures,Comedy
+383,496,NR,Michael Shackleton,1987,20900803,Universal Pictures,Action and Adventure
+384,497,PG-13,Martin Ritt,1985,20900803,Universal Pictures,Comedy
+385,499,R,Dennis Klein,1987,20900803,Universal Pictures,Comedy
+386,500,NR,Monica Stambrini|Monica Lisa Stambrini,2002,20900803,Universal Pictures,Art House and International
+387,502,NR,Lawrence Gough,2009,20900803,Revolver Entertainment,Horror
+388,503,R,Peter Sasdy,1970,20900803,Universal Pictures,Art House and International
+389,504,PG,Jared Hess,2004,44478018,Fox Searchlight Pictures,Comedy
+390,505,R,Jordan Vogt-Roberts,2013,1300000,CBS Films,Comedy
+391,507,R,Arne Glimcher|Arnold Glimcher,1992,20900803,Universal Pictures,Art House and International
+392,508,R,Robert Rodriguez,1996,20900803,Universal Pictures,Drama
+393,509,NR,Edmund Goulding,1946,20900803,Universal Pictures,Classics
+394,512,NR,Norman Foster|Alfredo Gomez de la Vega,1987,20900803,Universal Pictures,Art House and International
+395,513,NR,Tim Burstall,1982,20900803,Universal Pictures,Action and Adventure
+396,515,NR,Lesley Selander,1987,20900803,Universal Pictures,Action and Adventure
+397,516,NR,Gordon Hessler,1987,20900803,Universal Pictures,Drama
+398,517,PG,Vernon Sewell,1987,20900803,Universal Pictures,Horror
+399,518,R,Christian Ditter,2015,20900803,Film Arcade,Comedy
+400,520,PG,John Stephenson,2013,2209479,Echolight Studios,Drama
+401,522,G,Steven Spielberg,2000,20900803,Universal Pictures,Documentary
+402,523,R,Stephen Carpenter|Jeffrey Obrow,1982,20900803,Universal Pictures,Horror
+403,524,NR,Ingmar Bergman,1957,20900803,Universal Pictures,Drama
+404,526,G,Norman Jewison,1971,20900803,Universal Pictures,Classics
+405,527,NR,Jackie Chan|Xavier Lee,1987,20900803,Universal Pictures,Action and Adventure
+406,528,R,Tamara Jenkins,2007,6426953,Fox Searchlight Pictures,Comedy
+407,531,PG,Tab Murphy,1995,20900803,Universal Pictures,Action and Adventure
+408,533,PG-13,David Swift,1964,20900803,Universal Pictures,Classics
+409,534,R,Peter Bogdanovich,1985,20900803,Universal Pictures,Drama
+410,535,NR,Gerald Thomas,1987,20900803,Universal Pictures,Comedy
+411,537,R,Richard Lester,1979,20900803,Universal Pictures,Action and Adventure
+412,539,R,Jenniphr Goodman,2000,2586310,Universal Pictures,Art House and International
+413,541,NR,Ken Loach,1998,20900803,Universal Pictures,Drama
+414,542,R,John Dahl,2001,21254983,20th Century Fox,Action and Adventure
+415,544,NR,Phil Karlson,1945,20900803,Universal Pictures,Classics
+416,545,R,Robert Aldrich,1968,20900803,Universal Pictures,Classics
+417,547,PG-13,Billy Wilder,1964,20900803,Universal Pictures,Classics
+418,548,R,Denys Arcand,1993,20900803,Universal Pictures,Comedy
+419,549,R,Stanley Long,1987,20900803,Universal Pictures,Action and Adventure
+420,550,NR,Franco Amurri,1987,20900803,Universal Pictures,Comedy
+421,551,NR,Peter Ustinov,1987,20900803,Universal Pictures,Comedy
+422,552,R,Evan Dunsky,1997,20900803,Universal Pictures,Comedy
+423,554,PG-13,Jimmy Hayward,2010,10500000,Warner Bros. Pictures,Action and Adventure
+424,555,PG-13,Lesli Linka Glatter,1995,20900803,Universal Pictures,Comedy
+425,556,R,Louis Malle,1987,20900803,Universal Pictures,Drama
+426,559,PG,Neal Israel,1993,20900803,Universal Pictures,Comedy
+427,560,NR,Steven Spielberg,1930,20900803,Universal Pictures,Musical and Performing Arts
+428,561,PG-13,John Leekley,2000,20900803,Universal Pictures,Action and Adventure
+429,562,NR,Mastan Burmawalla|Abbas Alibhai Burmawalla|Mastan Alibhai Burmawalla,1993,20900803,Universal Pictures,Art House and International
+430,563,PG-13,Clare Kilner,2005,32000000,Universal Pictures,Comedy
+431,564,PG,Steven Spielberg,2008,114053579,Walt Disney Pictures,Action and Adventure
+432,565,R,Nick Broomfield,1993,20900803,Universal Pictures,Art House and International
+433,566,G,Gillian Armstrong,1979,20900803,Westchester Films,Art House and International
+434,567,PG-13,Trish Sie,2017,104880310,Universal Pictures,Comedy
+435,571,R,Shigehiro Ozawa,1974,20900803,Universal Pictures,Action and Adventure
+436,572,PG-13,Dennis Dugan,2003,35764982,Sony Pictures,Action and Adventure
+437,573,PG-13,Steven Spielberg,2005,17364602,Fox Searchlight Pictures,Comedy
+438,576,NR,Steven Spielberg,1987,20900803,Universal Pictures,Action and Adventure
+439,578,PG,Woody Allen,1987,20900803,Universal Pictures,Comedy
+440,579,PG-13,John Curran,2018,20900803,Universal Pictures,Mystery and Suspense
+441,580,NR,Steven Spielberg,1944,20900803,Universal Pictures,Classics
+442,581,PG-13,Gary Ross,1998,20900803,New Line Cinema,Comedy
+443,582,R,Anton Corbijn,2014,14037964,Lionsgate/Roadside Attractions,Drama
+444,583,R,David Lean,1970,20900803,Universal Pictures,Drama
+445,584,NR,Steven Spielberg,1987,20900803,Universal Pictures,Drama
+446,585,R,Antoine Fuqua,2018,20900803,Columbia Pictures,Action and Adventure
+447,586,NR,Steven Spielberg,1987,20900803,Universal Pictures,Documentary
+448,588,R,Steve Carver,1976,20900803,Universal Pictures,Action and Adventure
+449,589,NR,Toyoo Ashida|Carl Macek,1987,20900803,Universal Pictures,Animation
+450,590,PG-13,Justin Chadwick,2008,26800000,Sony Pictures/Columbia,Drama
+451,592,NR,Hark Tsui,1987,20900803,Universal Pictures,Art House and International
+452,594,PG,Ivan Reitman,1984,20900803,Columbia Pictures,Action and Adventure
+453,595,R,Forest Whitaker,1995,20900803,Universal Pictures,Comedy
+454,596,G,Adam Ravetch|Sarah Robertson,2007,598103,Paramount Vantage,Documentary
+455,597,PG,Lawrence Kasdan,1988,20900803,Universal Pictures,Comedy
+456,598,NR,Vincent Sherman,1947,20900803,Universal Pictures,Classics
+457,599,R,Steven Spielberg,1987,20900803,Universal Pictures,Drama
+458,601,PG,Steven Spielberg,1987,20900803,Universal Pictures,Action and Adventure
+459,602,R,Richard Loncraine,1987,20900803,Universal Pictures,Drama
+460,603,R,John Singleton,1993,20900803,Universal Pictures,Drama
+461,604,R,Kwame Amoaku,2003,20900803,Universal Pictures,Documentary
+462,605,PG-13,Peter Segal,1995,20900803,Universal Pictures,Comedy
+463,607,PG,Chuck Bail,1986,20900803,Universal Pictures,Drama
+464,608,R,Phil Alden Robinson,2014,20900803,Universal Pictures,Comedy
+465,609,NR,Anatole Litvak,1967,20900803,Universal Pictures,Classics
+466,610,PG-13,Florian Henckel von Donnersmarck,2010,67631157,Columbia Pictures,Action and Adventure
+467,611,R,Clint Eastwood,2003,88800000,WB,Drama
+468,612,R,Joseph Ruben,1995,20900803,Universal Pictures,Action and Adventure
+469,613,NR,John Berry,1987,20900803,Universal Pictures,Classics
+470,614,PG,Mark Rydell,1972,20900803,Universal Pictures,Classics
+471,615,PG,Hsiao-hsien Hou,1986,20900803,Universal Pictures,Art House and International
+472,617,NR,William Wyler,1940,20900803,Universal Pictures,Action and Adventure
+473,618,PG,Steven Spielberg,1987,20900803,Universal Pictures,Drama
+474,619,PG,Michael Rubbo,1987,20900803,Universal Pictures,Comedy
+475,620,R,Raymond Martino,1987,20900803,Universal Pictures,Action and Adventure
+476,622,R,Francis Ford Coppola,1972,20900803,Paramount Pictures,Drama
+477,623,R,Guy Maddin,2012,22099,Monterey Media,Art House and International
+478,624,NR,George Sidney,1953,20900803,Universal Pictures,Classics
+479,626,R,James Isaac,2002,12610731,New Line Cinema,Horror
+480,627,R,Brett Morgen,2008,20900803,Universal Pictures,Animation
+481,628,PG,Mira Nair,1987,8874389,Universal Pictures,Drama
+482,631,R,Roderick Taylor,1990,20900803,Universal Pictures,Comedy
+483,632,NR,Karim Traidia,1987,20900803,Universal Pictures,Art House and International
+484,633,NR,Tze Chun,2010,20900803,Independent Films,Drama
+485,635,R,Mike Mendez,2000,20900803,Universal Pictures,Horror
+486,636,NR,Andreas Morell,1987,20900803,Universal Pictures,Special Interest
+487,638,R,John Herzfeld,1996,20900803,Universal Pictures,Comedy
+488,639,R,Abel Ferrara,1999,20900803,Universal Pictures,Drama
+489,640,NR,Douglas Sirk,1949,20900803,Universal Pictures,Classics
+490,641,NR,Steven Spielberg,1987,20900803,Universal Pictures,Drama
+491,642,NR,John Cromwell,1987,20900803,Universal Pictures,Classics
+492,643,PG-13,Dave McCary,2017,529426,Sony Pictures Classics,Comedy
+493,644,R,Steven Spielberg,1987,20900803,Universal Pictures,Drama
+494,645,NR,Steven Spielberg,1987,20900803,Universal Pictures,Documentary
+495,646,PG-13,Steven Spielberg,2014,2664765,Warner Bros.,Comedy
+496,647,NR,Joseph Pevney,1952,20900803,Universal Pictures,Drama
+497,648,R,Howard Hawks,1959,20900803,Universal Pictures,Action and Adventure
+498,651,R,Sam Peckinpah,1971,20900803,Universal Pictures,Drama
+499,654,PG-13,Howard Deutch,1986,20900803,Universal Pictures,Comedy
+500,655,R,Robert Altman,1993,20900803,Universal Pictures,Comedy
+501,656,G,Steve Gomer,1998,20900803,Universal Pictures,Kids and Family
+502,658,R,George Huang,1995,20900803,Universal Pictures,Comedy
+503,659,R,Brian DePalma,1990,20900803,Universal Pictures,Comedy
+504,661,PG,Joel Zwick,2002,241250669,IFC Films,Comedy
+505,663,PG,Les Mayfield,1992,20900803,Universal Pictures,Comedy
+506,664,NR,Tian Zhuangzhuang,1993,20900803,Universal Pictures,Art House and International
+507,665,PG-13,Karen Shakhnazarov,2001,20900803,Universal Pictures,Art House and International
+508,666,NR,Paul Wendkos,1987,20900803,Universal Pictures,Drama
+509,667,PG,Clay Kaytis|Fergal Reilly,2016,107506776,Sony Pictures,Animation
+510,669,PG,Terry Gilliam,1987,20900803,Universal Pictures,Action and Adventure
+511,671,PG,Steven Spielberg,1996,20900803,Universal Pictures,Comedy
+512,672,PG-13,Bill Duke,2009,10572742,Screen Gems/SONY PICTURES,Drama
+513,673,PG,Mike Tollin|Michael Tollin,2003,52277485,Sony Pictures Entertainment,Drama
+514,674,R,William Friedkin,2012,1800000,Independent Pictures,Comedy
+515,675,PG,David Lean,1984,20900803,Universal Pictures,Drama
+516,676,NR,Robert Iscove,1987,20900803,Universal Pictures,Action and Adventure
+517,678,NR,David Miller,1987,20900803,Universal Pictures,Drama
+518,679,NR,Yoav Potash,2011,20900803,Independent Pictures,Documentary
+519,680,NR,Pierre Chenal,1987,20900803,Universal Pictures,Drama
+520,681,NR,Shane Acker,1987,20900803,Universal Pictures,Animation
+521,683,R,Fred Schepisi,1990,20900803,Universal Pictures,Action and Adventure
+522,684,PG,Gary Goddard,1987,20900803,Universal Pictures,Action and Adventure
+523,685,R,Philip Seymour Hoffman,2010,300000,Fox Searchlight,Comedy
+524,686,PG-13,Stuart Beattie,2014,15687400,Lionsgate Films,Horror
+525,687,R,Peter Medak,1980,20900803,Universal Pictures,Horror
+526,688,R,Don Taylor,1978,20900803,Universal Pictures,Horror
+527,689,R,Paul Thomas Anderson,2015,6100613,Warner Bros. Pictures,Drama
+528,690,NR,Robert Ellis Miller,1987,20900803,Universal Pictures,Classics
+529,691,NR,Jean-Luc Godard,1962,20900803,Universal Pictures,Art House and International
+530,692,PG,Steven Spielberg,1995,20900803,Universal Pictures,Action and Adventure
+531,693,PG,Leonard Nimoy,1987,20900803,Universal Pictures,Comedy
+532,694,R,Yves Simoneau,1993,20900803,Universal Pictures,Drama
+533,695,NR,Lloyd Bacon,1940,20900803,Universal Pictures,Action and Adventure
+534,696,R,Clint Eastwood,1986,20900803,Universal Pictures,Action and Adventure
+535,697,NR,Bela Tarr,1988,20900803,Universal Pictures,Art House and International
+536,699,NR,Chris Menges,1987,20900803,Universal Pictures,Drama
+537,700,R,Maggie Greenwald,1993,20900803,Universal Pictures,Action and Adventure
+538,701,PG,Curtis Hanson,1987,20900803,Universal Pictures,Action and Adventure
+539,704,R,Keenen Ivory Wayans,2001,20900803,Universal Pictures,Comedy
+540,707,NR,Steven Spielberg,1987,20900803,Universal Pictures,Action and Adventure
+541,708,NR,John Farrow,1987,20900803,Universal Pictures,Drama
+542,709,R,Martha Coolidge,1994,20900803,Universal Pictures,Comedy
+543,712,PG,Marcel Camus,1959,20900803,Universal Pictures,Art House and International
+544,713,R,Alethea Jones,2017,20900803,Universal Pictures,Comedy
+545,714,R,Seth MacFarlane,2015,63883740,Universal Pictures,Comedy
+546,715,R,Gary Fleder,2001,54218420,20th Century Fox,Drama
+547,716,NR,Steven Spielberg,1983,20900803,Universal Pictures,Art House and International
+548,717,G,Steven Spielberg,1987,20900803,Universal Pictures,Drama
+549,718,R,Steven Spielberg,1987,20900803,Universal Pictures,Art House and International
+550,719,NR,Albert Parker,1926,20900803,Universal Pictures,Action and Adventure
+551,720,NR,William Castle,1967,20900803,Universal Pictures,Classics
+552,721,R,Neil Jordan,1996,20900803,Universal Pictures,Drama
+553,722,NR,Elio Petri,1965,20900803,Universal Pictures,Action and Adventure
+554,723,R,Todd Haynes,1998,20900803,Universal Pictures,Drama
+555,724,NR,Steven Spielberg,1987,20900803,Universal Pictures,Art House and International
+556,725,NR,Annemarie Jacir,2010,20900803,Lorber Films,Drama
+557,726,NR,Evans Butterworth,2009,20900803,Universal Pictures,Action and Adventure
+558,727,NR,Hong Sang-soo,2003,20900803,Universal Pictures,Art House and International
+559,729,PG,Jeannot Szwarc,1985,20900803,Universal Pictures,Kids and Family
+560,730,NR,Maroun Bagdadi,1987,20900803,Universal Pictures,Art House and International
+561,731,R,Jim Jarmusch,1997,20900803,Universal Pictures,Documentary
+562,732,NR,James Hogan,1938,20900803,Universal Pictures,Western
+563,733,NR,Donald Collup,1987,20900803,Universal Pictures,Comedy
+564,734,NR,Jing Wong,1987,20900803,Universal Pictures,Art House and International
+565,735,PG,Simon Wincer,1987,20900803,Universal Pictures,Action and Adventure
+566,736,R,Mike Figgis,1990,20900803,Universal Pictures,Drama
+567,737,NR,Guy Hamilton,1987,20900803,Universal Pictures,Drama
+568,738,R,Nick Murphy,2012,175088,Cohen Media Group,Art House and International
+569,739,NR,Agust Agustsson|Ruth Schell,1987,20900803,Universal Pictures,Drama
+570,740,PG-13,Joe Johnston,2001,20900803,Universal Pictures,Action and Adventure
+571,741,R,Cedric Sundstrom,1991,20900803,Universal Pictures,Action and Adventure
+572,742,R,Richard Spence,1997,20900803,Universal Pictures,Art House and International
+573,743,NR,Steven Spielberg,1987,20900803,Universal Pictures,Drama
+574,744,PG-13,John Burgess,2015,20900803,Freestyle Releasing,Comedy
+575,745,PG,Michael Laughlin,1983,20900803,Universal Pictures,Comedy
+576,746,NR,William Beaudine,1941,20900803,Universal Pictures,Action and Adventure
+577,747,NR,Billy Wilder,1960,20900803,Universal Pictures,Classics
+578,748,NR,Otar Iosseliani,1999,20900803,Universal Pictures,Art House and International
+579,749,NR,Yasir Jaswal,1987,20900803,Universal Pictures,Action and Adventure
+580,750,NR,John Ewing III,2006,20900803,Universal Pictures,Documentary
+581,752,R,John Landis,1978,20900803,Universal Pictures,Comedy
+582,753,PG,Freddie Francis,1967,20900803,Universal Pictures,Horror
+583,754,NR,Amy Berg,2006,20900803,Lionsgate Films,Documentary
+584,755,PG-13,Richard Donner,2003,19375474,Paramount Pictures,Action and Adventure
+585,756,R,Brad Furman,2016,15425870,Broad Green Pictures,Drama
+586,757,R,Dominic Sena,1993,20900803,Universal Pictures,Action and Adventure
+587,758,NR,Del Tenney,1987,20900803,20th Century Fox Film Corporat,Horror
+588,760,R,Nicholas Stoller,2016,20900803,Universal Pictures,Comedy
+589,761,PG,Arthur Penn,1958,20900803,Universal Pictures,Classics
+590,762,R,Kim Ki-duk,2001,20900803,Universal Pictures,Art House and International
+591,763,NR,Henry King,1937,20900803,Universal Pictures,Classics
+592,765,NR,Ralph Nelson,1963,20900803,Universal Pictures,Art House and International
+593,766,G,Arna Selznick,1985,20900803,Universal Pictures,Action and Adventure
+594,768,NR,Roger Weisberg,1987,20900803,Universal Pictures,Documentary
+595,769,R,Paul Schrader,2018,20900803,Universal Pictures,Drama
+596,770,NR,Henry Koster,1966,20900803,Universal Pictures,Classics
+597,771,PG-13,Jason Friedberg|Aaron Seltzer,2008,38200000,20th Century Fox,Comedy
+598,772,NR,Vladimir Menshov,1980,20900803,Universal Pictures,Art House and International
+599,773,R,Vincent Gallo,1998,2365931,Universal Pictures,Art House and International
+600,774,NR,Richard Thorpe,1987,20900803,Universal Pictures,Action and Adventure
+601,776,PG,Woody Allen,1980,20900803,Universal Pictures,Comedy
+602,778,R,Ted Kotcheff,1979,20900803,Universal Pictures,Comedy
+603,779,R,Goran Dukic,2007,231512,Lionsgate Films/After Dark Films,Art House and International
+604,781,PG-13,Yoji Yamada,2007,20900803,The Bigger Picture,Art House and International
+605,782,R,Martin McDonagh,2017,52000189,Fox Searchlight Pictures,Comedy
+606,783,R,Sylvester Stallone,2010,102981571,Lionsgate Films,Action and Adventure
+607,784,PG-13,Lewis Milestone,1960,20900803,Universal Pictures,Classics
+608,785,NR,David Miller,1956,20900803,Universal Pictures,Classics
+609,786,NR,Jarrett Lee Conaway,1987,20900803,Universal Pictures,Action and Adventure
+610,787,NR,Derek Cole,2012,20900803,Universal Pictures,Horror
+611,788,R,Michael Showalter,2016,14443077,Universal Pictures,Drama
+612,789,NR,Tom Collins,1987,20900803,Universal Pictures,Drama
+613,791,R,Steven Spielberg,2009,4900000,Sony Pictures Classics,Art House and International
+614,792,NR,Steven Spielberg,1987,20900803,Universal Pictures,Action and Adventure
+615,793,PG-13,Jack Fisk,1987,20900803,Universal Pictures,Drama
+616,794,R,Bruce Robinson,1992,20900803,Universal Pictures,Drama
+617,797,PG,Charles Burnett,1990,20900803,Universal Pictures,Drama
+618,798,NR,Ingemo Engstrom,1987,20900803,Universal Pictures,Drama
+619,800,PG-13,Oley Sassone,1987,20900803,Universal Pictures,Action and Adventure
+620,801,R,Bud Yorkin,1990,20900803,Universal Pictures,Comedy
+621,802,R,Steven Spielberg,1990,20900803,Universal Pictures,Comedy
+622,804,R,Barry Levinson,2015,1940202,Open Road Films,Drama
+623,805,PG,Steven Spielberg,1987,20900803,Universal Pictures,Action and Adventure
+624,806,R,Danny Leiner,2006,39712,First Independent Pictures,Comedy
+625,807,R,Wolfgang Petersen,1997,20900803,Universal Pictures,Action and Adventure
+626,808,R,Michael Moore,1995,20900803,Universal Pictures,Comedy
+627,809,PG,Alfred Hitchcock,1958,20900803,Universal Pictures,Classics
+628,810,NR,Jae-young Kwak,2001,20900803,Universal Pictures,Comedy
+629,811,NR,Eli Cohen,1994,20900803,Universal Pictures,Art House and International
+630,812,NR,Larry Elikann,1987,20900803,Universal Pictures,Drama
+631,814,PG-13,Stephen Herek,2002,14400987,20th Century Fox,Comedy
+632,815,R,Sam Mendes,2008,22877808,Paramount Vantage,Drama
+633,816,PG,Anthony Bell|Ben Gluck|Benjamin Gluck,2010,25077977,Lionsgate Films,Action and Adventure
+634,817,G,Walter Lang,1957,20900803,Universal Pictures,Classics
+635,818,PG,Stuart Gillard|Corey Feldman|Tim Kelleher,1993,20900803,Universal Pictures,Action and Adventure
+636,819,R,Edward Dmytryk,1979,20900803,Universal Pictures,Art House and International
+637,820,R,James Cameron,1984,20900803,Orion Pictures Corporation,Action and Adventure
+638,821,NR,Mai Zetterling,1987,20900803,Universal Pictures,Art House and International
+639,823,R,Marco Tullio Giordana,2003,20900803,Miramax Films,Art House and International
+640,824,PG,Lucas Reiner,1990,20900803,Universal Pictures,Comedy
+641,825,PG-13,Lee David Zlotoff,1996,20900803,Universal Pictures,Drama
+642,826,NR,Stanley Kubrick,1955,20900803,Universal Pictures,Classics
+643,827,R,Jonathan Demme,1988,20900803,Universal Pictures,Comedy
+644,828,NR,Steven Spielberg,1960,20900803,Universal Pictures,Action and Adventure
+645,829,NR,Antonio Margheriti,1973,20900803,Blue Underground,Art House and International
+646,830,R,Ang Lee,1993,20900803,Universal Pictures,Art House and International
+647,831,NR,Pavan Moondi,1987,20900803,Factory 25,Comedy
+648,832,NR,Alexander Medvedkin,1987,20900803,Universal Pictures,Art House and International
+649,833,PG-13,Kyle Newman,2008,700000,Universal Pictures,Action and Adventure
+650,834,R,Michael Winterbottom,1996,20900803,Universal Pictures,Art House and International
+651,835,PG,John Hayes,1978,20900803,Universal Pictures,Science Fiction and Fantasy
+652,836,R,Steven Spielberg,2015,20900803,A24 and DIRECTV,Action and Adventure
+653,837,PG,Steven Spielberg,1987,20900803,Universal Pictures,Art House and International
+654,838,NR,Michael Brown,1987,20900803,Universal Pictures,Action and Adventure
+655,839,PG,Arthur Hiller,1970,20900803,Paramount Pictures,Drama
+656,840,NR,Mervyn Le Roy,1932,20900803,Universal Pictures,Classics
+657,841,PG-13,Steven Spielberg,2005,234141872,Paramount Pictures,Action and Adventure
+658,843,NR,Steven Spielberg,1987,20900803,Universal Pictures,Drama
+659,845,R,Werner Herzog,2009,1616556,First Look Pictures,Drama
+660,846,PG-13,Tim Disney,2009,465786,Samuel Goldwyn Films,Drama
+661,847,NR,Alfred Hitchcock,1938,20900803,Universal Pictures,Classics
+662,848,R,Peter Webber,2007,27503677,MGM,Drama
+663,849,PG-13,Joel Schumacher,1994,20900803,Universal Pictures,Action and Adventure
+664,850,R,Ang Lee,2016,1736708,Sony Pictures,Drama
+665,852,PG-13,Prince,1987,20900803,Universal Pictures,Documentary
+666,853,R,Austin Chick,2008,20900803,Universal Pictures,Drama
+667,855,PG,Richard Lester|Richard Donner,1981,20900803,Universal Pictures,Action and Adventure
+668,856,R,Wiktor Grodecki,1996,20900803,Universal Pictures,Art House and International
+669,857,NR,Mark Robson,1987,20900803,Universal Pictures,Drama
+670,858,R,Jed Weintrob,2003,25658,Indican Pictures,Drama
+671,859,PG,Steven Spielberg,1988,20900803,Universal Pictures,Comedy
+672,860,R,Nicolas Roeg,1995,20900803,Universal Pictures,Drama
+673,861,R,Steve Kloves,1993,20900803,Universal Pictures,Drama
+674,862,PG-13,Anthony Russo|Joe Russo,2006,75604320,Universal Pictures,Comedy
+675,863,R,Harmony Korine,2013,13900000,A24 Films,Action and Adventure
+676,864,PG-13,Steven Spielberg,2009,15988876,Universal Pictures,Drama
+677,866,NR,Scott Pembroke,1987,20900803,Universal Pictures,Drama
+678,867,NR,Vittorio De Sica,1963,20900803,Universal Pictures,Comedy
+679,868,NR,Irene Lusztig,1987,20900803,Universal Pictures,Art House and International
+680,870,PG,Barbra Streisand,1983,20900803,Universal Pictures,Drama
+681,871,R,Renny Harlin,1990,20900803,Universal Pictures,Action and Adventure
+682,872,PG,Paul Flaherty,1994,20900803,Universal Pictures,Comedy
+683,873,R,Robert Pulcini|Shari Springer Berman,2010,453079,Magnolia Pictures,Comedy
+684,874,R,Amos Poe,1999,20900803,Universal Pictures,Action and Adventure
+685,875,R,Max Joseph,2015,20900803,Universal Pictures,Drama
+686,876,PG,Sean McNamara,2018,20900803,LD Entertainment,Drama
+687,879,R,Barra Grant,2007,20900803,Universal Pictures,Comedy
+688,880,NR,Joseph Kane,1987,20900803,Universal Pictures,Western
+689,881,R,Steven Spielberg,1987,20900803,Universal Pictures,Action and Adventure
+690,883,PG-13,Jay Roach,2004,279167575,Universal Pictures,Comedy
+691,884,R,Richard Rush,1974,8300,Warner Bros. Pictures,Action and Adventure
+692,887,R,Charles Shyer,2004,13351235,Paramount Pictures,Comedy
+693,888,NR,Lloyd Bacon,1940,20900803,Universal Pictures,Classics
+694,889,PG,Amy Holden Jones,1987,20900803,Universal Pictures,Comedy
+695,891,PG,Richard Michaels|Michael Daves,1983,20900803,Universal Pictures,Comedy
+696,893,R,Daniel Alfredson,2015,20900803,Universal Pictures,Action and Adventure
+697,895,NR,Eric England,2013,3328,IFC Films,Drama
+698,896,PG,Nathan Juran,1957,20900803,Universal Pictures,Classics
+699,897,NR,Steven Spielberg,1987,20900803,Universal Pictures,Action and Adventure
+700,898,NR,Walter Lang,1940,20900803,Universal Pictures,Classics
+701,899,PG,Barry Levinson,1984,20900803,Universal Pictures,Drama
+702,901,G,Jacques Cluzaud|Jacques Perrin,2010,19000000,Disneynature,Documentary
+703,902,R,Simon West,1999,20900803,Paramount Pictures,Drama
+704,903,G,James Cameron,2003,16302332,Buena Vista Distribution,Comedy
+705,906,PG,Steven Spielberg,1987,1688620,A24 Films,Drama
+706,907,R,Steven Spielberg,2003,3752818,Fox Searchlight Pictures,Art House and International
+707,908,PG-13,Jan Hrebejk,2001,20900803,Sony Pictures Classics,Art House and International
+708,909,R,Bobcat Goldthwait,1992,20900803,Universal Pictures,Comedy
+709,911,R,Michael Lehmann,1988,20900803,Universal Pictures,Comedy
+710,912,PG,George Cukor,1944,20900803,Universal Pictures,Classics
+711,913,NR,Marion Vernoux,1987,20900803,Tribeca Film,Comedy
+712,914,R,Silvio Narizzano,1987,20900803,Universal Pictures,Comedy
+713,915,NR,Ian Curteis,1987,20900803,Universal Pictures,Horror
+714,918,NR,Charles Walters,1955,20900803,Universal Pictures,Classics
+715,919,NR,Fielder Cook,1986,20900803,Universal Pictures,Drama
+716,921,PG-13,Phil Alden Robinson,1992,20900803,Universal Pictures,Action and Adventure
+717,922,R,Robert Redford,1988,20900803,Universal Pictures,Comedy
+718,923,NR,Howard Hawks,1987,20900803,Universal Pictures,Action and Adventure
+719,924,R,David Seltzer,1992,20900803,Universal Pictures,Action and Adventure
+720,925,NR,John Krasinski,2009,20900803,IFC,Comedy
+721,926,PG-13,Rob Cohen,2000,20900803,Universal Studios Home Video,Horror
+722,928,NR,Steven Spielberg,1952,20900803,Universal Pictures,Classics
+723,930,R,Danny Boyle,1996,20900803,Miramax Films,Comedy
+724,931,NR,Aditya Chopra,1995,20900803,Universal Pictures,Art House and International
+725,932,PG,Peter Byck,2011,20900803,Mitropoulos Films,Documentary
+726,933,R,Henry Jaglom|Bob Giraldi,1982,20900803,Universal Pictures,Comedy
+727,934,NR,Steven Spielberg,1936,20900803,Universal Pictures,Classics
+728,935,R,David Hillenbrand|Scott Hillenbrand,2009,20900803,Full Circle Releasing,Comedy
+729,936,PG-13,Craig Bolotin,1993,20900803,Universal Pictures,Drama
+730,937,R,Melvin Van Peebles,1970,20900803,Universal Pictures,Classics
+731,939,NR,Woo-Suk Kang|Kang Woo-seok,2003,20900803,Cinema Service,Action and Adventure
+732,940,PG-13,Robert Schwentke,2005,89602378,Touchstone Pictures,Action and Adventure
+733,941,R,Martyn Burke,2002,20900803,Universal Pictures,Action and Adventure
+734,943,NR,Vittorio De Sica,1947,20900803,Universal Pictures,Art House and International
+735,944,NR,Harold French|Pat Jackson|Anthony Pelissier,1987,20900803,Universal Pictures,Classics
+736,946,PG-13,Matt Reeves|Natt Reeves,1996,20900803,Universal Pictures,Comedy
+737,947,R,Steven Spielberg,1997,20900803,Universal Pictures,Drama
+738,949,R,Rainer Werner Fassbinder,1969,20900803,Universal Pictures,Art House and International
+739,950,NR,Chris Kentis,1997,20900803,Universal Pictures,Drama
+740,952,R,Cyrus Nowrasteh,2009,519730,Roadside Attractions,Drama
+741,953,PG,Orson Welles,1941,20900803,Universal Pictures,Classics
+742,957,NR,Alexander Mackendrick,1957,20900803,Universal Pictures,Classics
+743,959,NR,Jean-Claude Brisseau,2003,20900803,Universal Pictures,Art House and International
+744,961,R,Roman Coppola,2002,301194,United Artists Pictures/MGM,Comedy
+745,962,NR,Todd Phillips,1994,20900803,Universal Pictures,Documentary
+746,963,R,James Cox,2003,20900803,Lions Gate Releasing,Drama
+747,964,NR,Jonathan Challis|Susan Crook|John Coffey|Ian Lynch,2012,104286,Magnolia Pictures,Documentary
+748,966,R,Steven Spielberg,1987,20900803,Universal Pictures,Horror
+749,967,R,John Landis,1985,20900803,Universal Pictures,Action and Adventure
+750,968,NR,Prosit Roy,1987,20900803,Universal Pictures,Art House and International
+751,969,R,Steven Spielberg,2004,12711889,Fox Searchlight,Comedy
+752,970,R,Francis Veber,2001,4519967,Universal Pictures,Art House and International
+753,971,PG,James Hill,1966,20900803,Universal Pictures,Action and Adventure
+754,972,R,Chuck Barris,1987,20900803,Universal Pictures,Comedy
+755,973,R,Andrzej Bartkowiak,2005,28031250,Universal Pictures,Action and Adventure
+756,974,PG,Carroll Ballard,1983,20900803,Universal Pictures,Action and Adventure
+757,975,PG-13,Andrew Bergman,1992,20900803,Universal Pictures,Comedy
+758,976,R,Patty Jenkins,2004,34187787,Newmarket Film Group,Drama
+759,977,R,Ted Post,1973,20900803,Universal Pictures,Drama
+760,978,PG,George Lucas,1971,20900803,Warner Bros. Pictures,Drama
+761,980,PG,Peter Hunt,1969,20900803,Universal Pictures,Action and Adventure
+762,981,R,Jesse Dylan,2001,31155435,Universal Pictures,Comedy
+763,983,R,Steven Spielberg,1980,20900803,Universal Pictures,Art House and International
+764,984,PG-13,Michael Apted,1984,20900803,Universal Pictures,Drama
+765,985,R,William Lustig,1983,20900803,Blue Underground,Action and Adventure
+766,986,R,Martin Scorsese,1988,20900803,Universal Pictures,Drama
+767,988,NR,Steven Spielberg,1987,20900803,Universal Pictures,Horror
+768,992,NR,Luis Almeida,2006,20900803,Universal Pictures,Horror
+769,994,PG-13,David Anspaugh,1988,20900803,Universal Pictures,Drama
+770,996,NR,Nicanor Loreti,2011,20900803,Universal Pictures,Comedy
+771,997,NR,Steven Spielberg,1987,20900803,Universal Pictures,Action and Adventure
+772,998,NR,Ilkka Jarvilaturi,1987,20900803,Universal Pictures,Comedy
+773,999,NR,Holly Goldberg Sloan,1987,20900803,Universal Pictures,Comedy
+774,1000,R,Roger Young,1999,20900803,Universal Pictures,Drama
+775,1001,PG-13,Stephen Frears,2013,20900803,The Weinstein Company,Drama
+776,1002,NR,Jacques Rivette,1989,20900803,Universal Pictures,Action and Adventure
+777,1004,PG-13,Steven Spielberg,1985,20900803,Universal Pictures,Drama
+778,1006,R,Neil Jordan,2007,36800000,Warner Bros. Pictures,Action and Adventure
+779,1007,PG,Steven Spielberg,1987,20900803,Universal Pictures,Comedy
+780,1008,R,Jack Hill,1973,20900803,Universal Pictures,Action and Adventure
+781,1009,PG-13,Steven Spielberg,2010,30212620,Columbia Pictures,Comedy
+782,1011,R,Steven Quale,2011,42500000,Warner Bros.,Horror
+783,1013,R,Steven Spielberg,2012,3014541,Roadside Attractions,Drama
+784,1014,PG,Gary Winick,2010,53021560,Summit Entertainment,Comedy
+785,1015,R,Ole Bornedal,2007,20900803,Grindstone Entertainment,Horror
+786,1016,R,Zak Penn,2008,20900803,Anchor Bay Entertainment,Comedy
+787,1017,PG-13,David Fincher,2008,127490802,Paramount,Drama
+788,1020,NR,Vasili Pichul,1989,20900803,Universal Pictures,Art House and International
+789,1021,NR,Henri Cartier-Bresson,1987,20900803,Universal Pictures,Documentary
+790,1022,PG,Ralph Bakshi,1977,20900803,Eureka Entertainment Ltd,Action and Adventure
+791,1023,PG-13,Joseph Sargent,1987,20900803,Universal Pictures,Action and Adventure
+792,1024,G,Steven Spielberg,1940,20900803,Universal Pictures,Classics
+793,1025,NR,Charles Walters,1948,20900803,Universal Pictures,Classics
+794,1026,R,Douglas Hickox,1975,20900803,Universal Pictures,Action and Adventure
+795,1028,G,Brian Henson,1992,20900803,Universal Pictures,Kids and Family
+796,1029,NR,Michael Curtiz,1987,20900803,Universal Pictures,Drama
+797,1030,NR,Mario Bava,1963,20900803,Universal Pictures,Art House and International
+798,1031,NR,Morton DaCosta,1958,20900803,Universal Pictures,Classics
+799,1033,R,Michael Winner,1983,20900803,Universal Pictures,Action and Adventure
+800,1034,PG,Waris Hussein,1987,20900803,Universal Pictures,Drama
+801,1035,R,James Glickenhaus,1993,20900803,Universal Pictures,Action and Adventure
+802,1036,PG-13,Edward Burns,2012,20900803,Tribeca Film,Drama
+803,1037,NR,Michael Pressman,1987,20900803,Universal Pictures,Action and Adventure
+804,1038,PG-13,Donald Petrie,2003,105765605,Paramount Pictures,Comedy
+805,1042,NR,Robert Bresson,1966,20900803,Universal Pictures,Art House and International
+806,1043,PG-13,Vic Sarin|Victor Sarin,2001,20900803,Cloud Ten Pictures,Action and Adventure
+807,1044,R,George Hickenlooper,2007,1566027,MGM,Drama
+808,1045,NR,Mani Ratnam,1987,20900803,Universal Pictures,Action and Adventure
+809,1046,R,Steven Spielberg,2010,1110286,Sony Pictures Classics,Drama
+810,1047,G,Nils Tavernier,1987,20900803,Les Films du Losange,Drama
+811,1048,PG,Alfred Hitchcock,1955,20900803,Universal Pictures,Classics
+812,1049,NR,Seyfi Teoman,1987,20900803,Universal Pictures,Art House and International
+813,1050,PG,Eli Roth,2018,20900803,Universal Pictures,Comedy
+814,1051,NR,Bruce Beresford,1987,20900803,Universal Pictures,Drama
+815,1054,R,John Moffitt,1987,20900803,Universal Pictures,Comedy
+816,1055,R,Danis Tanovic,2001,948054,United Artists Pictures,Art House and International
+817,1056,R,Peter Chelsom,1995,20900803,Universal Pictures,Comedy
+818,1060,PG,Michael Schultz,1987,20900803,Universal Pictures,Comedy
+819,1061,NR,Mostofa Sarwar Farooki,1987,20900803,Universal Pictures,Comedy
+820,1062,NR,Richard Thorpe,1937,20900803,Universal Pictures,Classics
+821,1064,NR,Maurice Pialat,1987,20900803,Universal Pictures,Art House and International
+822,1065,PG,Steven Spielberg,1995,20900803,Universal Pictures,Action and Adventure
+823,1066,NR,Ben Ferris,1987,20900803,Universal Pictures,Art House and International
+824,1067,R,Luca Guadagnino,2018,20900803,Universal Pictures,Drama
+825,1069,NR,Ramin Serry,2002,20900803,Streetlight Films,Drama
+826,1070,R,Nathan Hope,2009,20900803,Universal Pictures,Drama
+827,1071,R,Mel Gibson,2004,368000000,Newmarket Film Group,Drama
+828,1072,NR,Steven Spielberg,1987,20900803,Universal Pictures,Drama
+829,1074,NR,Craig Brewer,1987,20900803,Universal Pictures,Drama
+830,1075,NR,Anatole Litvak,1962,20900803,Universal Pictures,Art House and International
+831,1076,NR,Mark Hopkins,2010,20900803,Truly Indie/BEV Pictures,Documentary
+832,1077,PG-13,Steven Spielberg,1993,45299680,Universal Pictures,Action and Adventure
+833,1078,R,Andrew Davis,1988,20900803,Universal Pictures,Action and Adventure
+834,1079,R,Greg Marcks,2003,20900803,Universal Pictures,Comedy
+835,1080,PG-13,Maggie Greenwald,2001,1634064,Lions Gate,Drama
+836,1081,R,Steven Spielberg,2010,600000,Newmarket Films,Action and Adventure
+837,1082,PG,John Frankenheimer,1966,20900803,Universal Pictures,Classics
+838,1083,PG-13,Michel Hazanavicius,2011,44667095,The Weinstein Company,Comedy
+839,1084,R,Gia Coppola,2014,406235,Tribeca Film,Drama
+840,1085,NR,Bertrand Tavernier,1999,20900803,Universal Pictures,Art House and International
+841,1086,PG,Steven Spielberg,1980,20900803,Universal Pictures,Science Fiction and Fantasy
+842,1089,R,Gus Van Sant,1994,20900803,Universal Pictures,Comedy
+843,1090,R,Steven Spielberg,1975,20900803,Universal Pictures,Classics
+844,1091,PG-13,Roger Donaldson,2000,20900803,New Line Cinema,Drama
+845,1092,PG-13,Bryan Singer,2008,82989109,MGM,Drama
+846,1093,R,Elia Kazan,1956,20900803,Universal Pictures,Classics
+847,1094,PG,Tom Mankiewicz,1991,20900803,Universal Pictures,Comedy
+848,1095,R,Kevin Smith,1995,20900803,Universal Pictures,Comedy
+849,1096,R,Harry Hook,1989,20900803,Universal Pictures,Action and Adventure
+850,1097,NR,Steven Spielberg,1957,20900803,Universal Pictures,Classics
+851,1099,NR,Charles Vidor,1987,20900803,Universal Pictures,Classics
+852,1100,NR,Mano Khalil,1987,20900803,Universal Pictures,Documentary
+853,1101,PG,George Lucas,1973,20900803,Universal Pictures,Comedy
+854,1102,PG,George Stevens,1959,20900803,Universal Pictures,Classics
+855,1103,PG,Nick Park,2018,20900803,Lionsgate,Animation
+856,1104,PG,Don Siegel,1973,20900803,Universal Pictures,Action and Adventure
+857,1106,NR,George Melford|George Fitzmaurice,1921,20900803,Universal Pictures,Classics
+858,1108,R,Rob Schmidt,2003,15176515,20th Century Fox Distribution,Horror
+859,1110,NR,Emile de Antonio|Dan Talbot,1964,20900803,Universal Pictures,Documentary
+860,1112,PG,Hirokazu Koreeda,2016,466986,Sony Pictures Classics,Drama
+861,1113,R,George Gallo,2010,723714,Paramount Pictures,Comedy
+862,1114,R,Steven Spielberg,2017,115088305,Universal Pictures,Comedy
+863,1115,NR,Jeffrey Lau,1987,20900803,Universal Pictures,Action and Adventure
+864,1116,R,Dennis Hopper,1994,20900803,Universal Pictures,Comedy
+865,1119,NR,Fritz Lang,1956,20900803,Universal Pictures,Drama
+866,1120,NR,Steno,1987,20900803,Universal Pictures,Comedy
+867,1121,PG,Peter Yates,1972,20900803,Universal Pictures,Action and Adventure
+868,1122,R,Lynn Shelton,2013,35966,Magnolia Pictures,Drama
+869,1123,PG,Jim Sharman,1981,20900803,20th Century Fox,Comedy
+870,1125,NR,Steven Spielberg,1987,20900803,Universal Pictures,Art House and International
+871,1126,NR,Irving Rapper,1942,20900803,Universal Pictures,Classics
+872,1128,R,Stanley Donen,1984,20900803,Universal Pictures,Comedy
+873,1131,NR,Steven Spielberg,1987,20900803,Universal Pictures,Comedy
+874,1132,R,Albert Pyun,1986,20900803,Universal Pictures,Action and Adventure
+875,1133,R,Michael Fields,1991,20900803,Universal Pictures,Drama
+876,1134,R,Rainer Werner Fassbinder,1987,20900803,Universal Pictures,Documentary
+877,1136,PG-13,Peter Jackson,2012,303001229,Warner Bros.,Action and Adventure
+878,1137,NR,Douglas Sirk,1957,20900803,Universal Pictures,Classics
+879,1138,PG-13,Michael Urie,2013,20900803,Gravitas Ventures,Comedy
+880,1140,R,Jeff Tremaine,2002,64209101,Paramount Pictures,Comedy
+881,1141,R,Richard Lang,1987,20900803,Universal Pictures,Action and Adventure
+882,1143,PG,Paul Feig,2004,252018,Lions Gate Films,Drama
+883,1144,PG-13,Neal Slavin,2001,20900803,Paramount Classics,Drama
+884,1145,PG-13,Mel Brooks,1991,20900803,Universal Pictures,Comedy
+885,1146,NR,Francisco Regueiro,1987,20900803,Universal Pictures,Art House and International
+886,1147,NR,Scott Dikkers,1987,20900803,Universal Pictures,Comedy
+887,1148,PG,Bill Forsyth,1987,20900803,Universal Pictures,Comedy
+888,1149,PG,Alex Kendrick|Stephen Kendrick,2006,10127352,Destination Film,Drama
+889,1150,PG-13,Trent Cooper,2006,15655665,Lions Gate Films,Comedy
+890,1152,NR,Jan Cvitkovic,1987,20900803,Universal Pictures,Drama
+891,1153,NR,Robert Siodmak,1987,20900803,Universal Pictures,Classics
+892,1154,G,Rob LaDuca|Darrell Rooney,1998,20900803,Universal Pictures,Action and Adventure
+893,1155,PG-13,Matt Tynauer|Matt Tyrnauer,2009,1569618,Truly Indie,Documentary
+894,1156,G,Jack Kinney|Hamilton Luske|Bill Roberts|William Morgan,1947,20900803,Universal Pictures,Action and Adventure
+895,1158,NR,Steven Spielberg,1987,20900803,Universal Pictures,Action and Adventure
+896,1159,NR,David Swift,1967,20900803,Universal Pictures,Classics
+897,1160,NR,Liu Chia-Liang,1982,20900803,Universal Pictures,Action and Adventure
+898,1161,R,Steven Spielberg,2005,116783,ThinkFilm Inc.,Action and Adventure
+899,1162,R,Glenn Ficarra|John Requa,2016,18356529,Paramount Pictures,Comedy
+900,1163,R,Paul McGuigan,2017,20900803,Sony Pictures Classics,Art House and International
+901,1164,R,Josie Rourke,1987,20900803,Focus Features,Drama
+902,1166,NR,Steven Spielberg,1987,20900803,Universal Pictures,Art House and International
+903,1167,R,Steven Spielberg,1996,20900803,Miramax Films,Comedy
+904,1168,NR,Charles Crichton,1952,20900803,Universal Pictures,Action and Adventure
+905,1169,PG-13,David Gelb,2015,20467547,Relativity Media,Horror
+906,1170,R,Tony Bill,1987,20900803,Universal Pictures,Art House and International
+907,1171,PG-13,Steven Spielberg,2013,4300353,Lionsgate/Roadside Attractions,Action and Adventure
+908,1172,NR,Daniela Thomas,2018,20900803,Universal Pictures,Action and Adventure
+909,1173,R,Andrei Tarkovsky,1973,20900803,Universal Pictures,Art House and International
+910,1175,R,Yimou Zhang,1994,20900803,Universal Pictures,Art House and International
+911,1176,NR,Frank Fehmers,1987,20900803,Universal Pictures,Animation
+912,1179,R,Robert Aldrich,1987,20900803,Universal Pictures,Comedy
+913,1180,PG,Henry Selick|Tim Burton,1993,8616662,Touchstone Pictures,Animation
+914,1182,PG,Kenny Ortega,2009,71844424,Sony Pictures/Columbia Pictures,Documentary
+915,1183,R,Sofia Coppola,2003,44566004,Focus Features,Comedy
+916,1185,NR,Natalya Kudryashova,1987,20900803,Universal Pictures,Drama
+917,1186,R,Sydney Pollack,1990,20900803,Universal Pictures,Drama
+918,1187,NR,Ji Woo Chung,1987,20900803,Universal Pictures,Art House and International
+919,1189,PG,Federico Fellini,1954,20900803,Universal Pictures,Art House and International
+920,1191,NR,Irving Pichel,1947,20900803,Universal Pictures,Classics
+921,1192,NR,Steven Spielberg,1987,20900803,Universal Pictures,Horror
+922,1194,NR,Stanley Long,1987,20900803,Universal Pictures,Art House and International
+923,1195,NR,Steven Spielberg,1987,20900803,Universal Pictures,Drama
+924,1196,NR,Busby Berkeley,1940,20900803,Universal Pictures,Classics
+925,1197,R,Bertrand Bonello,2015,20900803,Sony Pictures Classics,Art House and International
+926,1199,PG-13,Peter Faiman,1991,20900803,Universal Pictures,Comedy
+927,1200,R,Andrew Dominik,2007,3900000,Warner Bros. Pictures,Action and Adventure
+928,1203,PG,Richard Attenborough,1987,20900803,Universal Pictures,Art House and International
+929,1206,PG-13,Antony Hoffman|Anthony Hoffman,2000,20900803,Warner Bros.,Mystery and Suspense
+930,1207,R,Nicholas Racz,2003,20900803,Regent Releasing,Drama
+931,1208,PG,Brad Bird,2004,20900803,Buena Vista Pictures,Animation
+932,1209,NR,Alan Gibson,1987,20900803,Universal Pictures,Drama
+933,1210,PG-13,Gary David Goldberg,2005,43800000,Warner Bros. Pictures,Comedy
+934,1211,PG,Peter Wang,1986,20900803,Universal Pictures,Art House and International
+935,1214,R,Perry Moore|Hunter Hill,2008,20900803,Screen Media Films,Drama
+936,1215,NR,Navdeep Singh,1987,262586,Universal Pictures,Mystery and Suspense
+937,1216,NR,Oscar Godoy,1987,20900803,Universal Pictures,Comedy
+938,1217,R,Steven Spielberg,2007,20900803,IFC Films,Action and Adventure
+939,1218,R,Christian Ditter,2016,20900803,Warner Bros. Pictures,Comedy
+940,1219,PG,Steven Spielberg,1991,20900803,Universal Pictures,Action and Adventure
+941,1220,NR,Oren Shai,2016,20900803,Rocking Films,Drama
+942,1221,R,Jim Jarmusch,1995,20900803,Universal Pictures,Drama
+943,1222,R,Steven Spielberg,2003,20900803,DEJ Productions,Drama
+944,1223,PG-13,Peyton Reed,2006,118683135,Universal Pictures,Comedy
+945,1224,NR,Jean Negulesco,1957,20900803,Universal Pictures,Action and Adventure
+946,1225,NR,Steven Spielberg,1987,20900803,Universal Pictures,Drama
+947,1226,R,Steven Spielberg,1987,20900803,Universal Pictures,Drama
+948,1227,PG-13,Tom Shell,2001,20900803,Universal Pictures,Action and Adventure
+949,1228,PG,Milton Katselas,1987,20900803,Universal Pictures,Classics
+950,1229,NR,Steven Spielberg,1987,20900803,Universal Pictures,Documentary
+951,1231,R,Steven Spielberg,2014,709133,A24 Films,Mystery and Suspense
+952,1232,NR,Peter Bogdanovich,2004,20900803,Universal Pictures,Drama
+953,1234,R,Guy Maddin,1993,20900803,Universal Pictures,Comedy
+954,1235,PG,Steven Spielberg,1972,20900803,Universal Pictures,Art House and International
+955,1236,R,Ewan McGregor,2016,541457,Lakeshore Entertainment,Drama
+956,1237,PG-13,Douglas McGrath,2011,9500000,The Weinstein Co.,Comedy
+957,1238,PG,Ken Shapiro,1981,20900803,Universal Pictures,Comedy
+958,1239,G,Frank Nissen,2005,18013938,Buena Vista,Animation
+959,1241,NR,Steven Spielberg,1987,20900803,Universal Pictures,Comedy
+960,1242,NR,Preston Sturges,1944,20900803,Universal Pictures,Classics
+961,1243,PG-13,Thomas Carter,2005,67169549,Paramount Pictures,Drama
+962,1244,PG,Tom McLoughlin,1987,20900803,Universal Pictures,Comedy
+963,1246,NR,Steven Spielberg,1987,20900803,Universal Pictures,Comedy
+964,1252,PG-13,Tom Dey,2000,20900803,Buena Vista Internationa,Action and Adventure
+965,1253,PG-13,Berit Nesheim,1997,20900803,Universal Pictures,Art House and International
+966,1255,PG-13,Steven Spielberg,2009,257704099,IMAX,Action and Adventure
+967,1256,R,Marc Forster,2005,3349167,20th Century Fox,Drama
+968,1257,R,Henri Xhonneux,1987,20900803,Universal Pictures,Animation
+969,1259,NR,Steven Spielberg,1987,20900803,Universal Pictures,Documentary
+970,1260,NR,Erik Gandini,2009,363,Lorber Films,Documentary
+971,1261,R,Herbert Ross,1995,20900803,Universal Pictures,Comedy
+972,1263,PG-13,Daniel Taplitz,2004,11827301,Screen Gems,Comedy
+973,1264,R,Stephan Rick,2018,20900803,Universal Pictures,Mystery and Suspense
+974,1265,PG-13,Lawrence Kasdan,2012,793352,Sony Pictures Classics,Comedy
+975,1266,R,Gordon Willis,1987,20900803,Universal Pictures,Drama
+976,1267,NR,Guy Ritchie,1987,20900803,Universal Pictures,Action and Adventure
+977,1268,R,Jacob Aaron Estes,2012,63595,The Weinstein Company,Comedy
+978,1270,NR,Xie Jin,1987,20900803,Universal Pictures,Art House and International
+979,1271,R,Paul Schrader,2005,20900803,Universal Pictures,Horror
+980,1272,NR,William Wyler,1950,20900803,Universal Pictures,Classics
+981,1273,PG,Eleanor Burke|Ron Eyal,1987,20900803,Slamdance,Drama
+982,1274,R,Philip Goodhew,1996,20900803,Universal Pictures,Comedy
+983,1275,NR,Jen McGowan,1987,20900803,Universal Pictures,Drama
+984,1276,NR,Fedor Ozep,1947,20900803,Universal Pictures,Classics
+985,1277,PG-13,Wolfgang Petersen,1985,20900803,Universal Pictures,Action and Adventure
+986,1279,PG,Paul Feig,2006,16614132,Warner Bros.,Comedy
+987,1280,NR,Chris Riedell|Nick Riedell,1987,20900803,Universal Pictures,Action and Adventure
+988,1281,PG-13,James Lapine,1991,20900803,Universal Pictures,Comedy
+989,1282,NR,Irving Rapper,1944,20900803,Universal Pictures,Documentary
+990,1283,NR,Tim Nackashi|David Sampliner|Eric DelaBarre,1987,20900803,New Video Group,Documentary
+991,1284,NR,Mitsuo Yanagimachi,1987,20900803,Universal Pictures,Action and Adventure
+992,1285,NR,William Beaudine,1987,20900803,Universal Pictures,Comedy
+993,1286,NR,Alberto Lattuada,1987,20900803,Universal Pictures,Art House and International
+994,1287,G,Godfrey Reggio,1988,20900803,Universal Pictures,Art House and International
+995,1288,PG,Steve Carr,2009,146336178,Sony Pictures/Columbia Pictures,Comedy
+996,1289,R,Dusan Makavejev,1981,20900803,Universal Pictures,Art House and International
+997,1290,R,Steven Spielberg,2005,20433940,Universal Pictures,Action and Adventure
+998,1291,PG-13,Barnaby Thompson|Oliver Parker,2007,20900803,NeoClassics Films,Comedy
+999,1292,R,Lisa Cholodenko,2003,3596939,Sony Pictures Classics,Art House and International
+1000,1293,NR,Li Yang,2003,20900803,Universal Pictures,Art House and International
+1001,1295,PG,Robert Stromberg,2014,190871149,Walt Disney Pictures,Science Fiction and Fantasy
+1002,1296,NR,Steven Spielberg,1987,20900803,Universal Pictures,Drama
+1003,1297,R,Susanna White,2018,20900803,Universal Pictures,Drama
+1004,1298,PG-13,Tom Brady,2002,20900803,Universal Pictures,Comedy
+1005,1300,R,Tim Blake Nelson,2002,20900803,Lions Gate Films,Drama
+1006,1304,NR,Kiyoshi Kurosawa,2000,20900803,Universal Pictures,Action and Adventure
+1007,1305,PG,Steve Oedekerk,2006,72601713,Paramount Pictures,Animation
+1008,1307,PG-13,Sacha Gervasi,2012,6002708,Fox Searchlight Pictures,Drama
+1009,1308,R,Steven Spielberg,1977,20900803,Universal Pictures,Action and Adventure
+1010,1309,NR,John Badham,2002,20900803,Universal Pictures,Drama
+1011,1310,NR,Burt Kennedy,1967,20900803,Universal Pictures,Action and Adventure
+1012,1311,PG,Richard Lester,1974,20900803,Universal Pictures,Action and Adventure
+1013,1313,PG-13,Amy Heckerling,1985,20900803,Universal Pictures,Comedy
+1014,1314,NR,Stephen Shin,1994,20900803,Universal Pictures,Action and Adventure
+1015,1315,PG,Robert Rodriguez,2001,20900803,Dimension Films,Action and Adventure
+1016,1317,PG-13,Joe Roth,2001,93008426,Columbia Pictures,Comedy
+1017,1318,NR,Steven Spielberg,2010,20900803,Universal Pictures,Animation
+1018,1319,PG,Steven Spielberg,1983,20900803,Universal Pictures,Action and Adventure
+1019,1320,R,Curtis Hanson,2002,116638030,Universal Pictures,Drama
+1020,1321,PG-13,Tate Taylor,2014,22838662,Universal Pictures,Drama
+1021,1322,R,Jackie Kong,1983,20900803,Universal Pictures,Horror
+1022,1324,NR,Wojciech Has,1999,20900803,Universal Pictures,Art House and International
+1023,1325,R,Shane Black,2018,20900803,Universal Pictures,Action and Adventure
+1024,1326,NR,Steven Spielberg,2001,20900803,Universal Pictures,Art House and International
+1025,1327,PG-13,Steven Spielberg,2004,5696752,Paramount Pictures,Drama
+1026,1329,R,Curtis Hanson,1992,20900803,Universal Pictures,Drama
+1027,1330,R,Mike Figgis,2003,20900803,Buena Vista Pictures,Drama
+1028,1331,PG,Steven Spielberg,1987,20900803,Universal Pictures,Art House and International
+1029,1332,NR,Rick Hauser,1987,20900803,Universal Pictures,Drama
+1030,1334,PG-13,Youssef Delara,2016,320676,Universal Pictures,Comedy
+1031,1335,R,Steve Carr,2000,20900803,New Line Home Entertainment,Comedy
+1032,1336,R,Jimmy Sangster,1971,20900803,Universal Pictures,Art House and International
+1033,1337,PG-13,Paul Weitz,2006,7156725,Universal Pictures,Comedy
+1034,1338,R,Wayne Wang|Paul Auster,1995,20900803,Universal Pictures,Art House and International
+1035,1339,PG,Eleanor Coppola,2017,5617321,Sony Pictures Classics,Comedy
+1036,1340,PG-13,Brian Robbins,2004,10279192,Paramount Pictures,Comedy
+1037,1341,PG,Brian Levant,2002,81110575,Buena Vista Distribution Compa,Action and Adventure
+1038,1342,PG,Uli Edel|Ulrich Edel,2000,13432508,New Line Cinema,Action and Adventure
+1039,1343,NR,Herman Yau,2009,20900803,Universal Pictures,Action and Adventure
+1040,1344,NR,Fred Zinnemann,1959,20900803,Universal Pictures,Classics
+1041,1346,G,John Frankenheimer,1962,20900803,Universal Pictures,Classics
+1042,1347,NR,Clara Law,2000,20900803,Universal Pictures,Comedy
+1043,1349,NR,Dave McLaughlin,2008,20900803,FilmBuff,Comedy
+1044,1350,NR,Steven Spielberg,2000,20900803,Universal Pictures,Art House and International
+1045,1351,NR,Khyentse Norbu,2005,20900803,Zeitgeist Films,Art House and International
+1046,1352,R,Martha Coolidge,1987,20900803,Universal Pictures,Comedy
+1047,1353,NR,Steven Spielberg,1987,20900803,Universal Pictures,Classics
+1048,1354,PG,John Roberts,1995,20900803,Universal Pictures,Action and Adventure
+1049,1355,NR,Ching Wan Lau|Leung Siu Hung|Patrick Yau,1998,20900803,Universal Pictures,Art House and International
+1050,1357,PG,John Huston,1951,20900803,Universal Pictures,Action and Adventure
+1051,1358,G,John Ford,1952,20900803,Universal Pictures,Classics
+1052,1359,NR,Norman Taurog|Busby Berkeley,1943,20900803,Universal Pictures,Classics
+1053,1361,PG,Steven Spielberg,1968,20900803,Blue Underground,Action and Adventure
+1054,1362,PG-13,Mike Binder,2015,15504419,Universal Pictures,Drama
+1055,1363,R,Frank Perry,1987,20900803,Universal Pictures,Comedy
+1056,1364,PG,Larry Peerce,1987,20900803,Universal Pictures,Comedy
+1057,1365,R,Ken Russell,1988,20900803,Universal Pictures,Art House and International
+1058,1366,R,Guy Ritchie,1999,20900803,Universal Pictures,Action and Adventure
+1059,1368,R,William Friedkin,2000,20900803,Paramount Pictures,Action and Adventure
+1060,1369,R,Jeffrey Bell,1994,20900803,Universal Pictures,Drama
+1061,1370,NR,Rolando Colla,1987,20900803,Universal Pictures,Drama
+1062,1372,NR,Steven Spielberg,1987,20900803,Universal Pictures,Action and Adventure
+1063,1373,NR,Don McBrearty,1987,20900803,Universal Pictures,Drama
+1064,1374,NR,Desiree Akhavan,2018,20900803,FilmRise,Drama
+1065,1375,PG,Jack Lemmon,1971,20900803,Universal Pictures,Classics
+1066,1376,PG-13,Peter Billingsley,2009,109176215,Universal Pictures,Comedy
+1067,1377,NR,Howard Hawks,1965,20900803,Universal Pictures,Action and Adventure
+1068,1378,PG,Diane Keaton,1995,20900803,Universal Pictures,Comedy
+1069,1379,PG,Steven Spielberg,1987,20900803,Universal Pictures,Action and Adventure
+1070,1380,NR,Michael Haneke,1994,20900803,Universal Pictures,Art House and International
+1071,1381,R,Judd Apatow,2007,148734225,Universal,Comedy
+1072,1382,R,Albert Band,1981,20900803,Universal Pictures,Horror
+1073,1383,PG,Walt Becker,2015,66580191,20th Century Fox,Animation
+1074,1385,NR,Bud Yorkin,1967,20900803,Universal Pictures,Classics
+1075,1386,G,Roman Polanski,1967,20900803,Universal Pictures,Art House and International
+1076,1387,R,Shawn Christensen,2018,20900803,Universal Pictures,Drama
+1077,1388,NR,Steven Spielberg,1953,20900803,Universal Pictures,Classics
+1078,1389,PG-13,Ron Shelton,2017,20900803,Broad Green Pictures,Action and Adventure
+1079,1390,R,Kevin Dowling|Geoff Burton,1995,20900803,Universal Pictures,Art House and International
+1080,1391,G,Irving Lerner,1958,20900803,Universal Pictures,Drama
+1081,1392,PG-13,Steven Spielberg,1997,20900803,Universal Pictures,Comedy
+1082,1393,R,Fred Olen Ray,1987,20900803,Universal Pictures,Drama
+1083,1394,R,Steven Spielberg,2008,6515869,Paramount Classics,Comedy
+1084,1395,NR,Steven Spielberg,1987,20900803,Universal Pictures,Drama
+1085,1396,PG-13,Prince,1990,20900803,WARNER BROTHERS PICTURES,Drama
+1086,1397,NR,Stephen Poliakoff,1987,20900803,Universal Pictures,Action and Adventure
+1087,1398,PG,David Nixon|Patrick Doughtie,2010,1121000,Vivendi Entertainment,Drama
+1088,1399,R,Trey Edward Shults,2017,13985117,A24,Drama
+1089,1400,R,Andy Wolk,1992,20900803,Universal Pictures,Drama
+1090,1402,PG,Roger Vadim,1968,20900803,Universal Pictures,Action and Adventure
+1091,1403,NR,Cory McAbee,2001,20900803,Artistic License Films,Action and Adventure
+1092,1405,PG,Christopher Cain,1984,20900803,Universal Pictures,Action and Adventure
+1093,1406,NR,Rose Troche,1999,20900803,Universal Pictures,Comedy
+1094,1407,NR,Charles Lamont,1987,20900803,Universal Pictures,Action and Adventure
+1095,1408,R,Steven Spielberg,1999,20900803,Sony Pictures Classics,Art House and International
+1096,1409,NR,Luigi Comencini,1954,20900803,Universal Pictures,Art House and International
+1097,1410,NR,Mai Iskander,1987,20900803,Iskander Films,Documentary
+1098,1411,R,Michael Wadleigh,1981,20900803,Universal Pictures,Horror
+1099,1412,NR,Lance Comfort,1987,20900803,Universal Pictures,Classics
+1100,1413,NR,Hammudi Al-Rahmoun Font|Hammudi al-Rahmoun,1987,20900803,Universal Pictures,Drama
+1101,1415,NR,Kinji Fukasaku,2000,20900803,Universal Pictures,Action and Adventure
+1102,1418,G,Peter Lord|Nick Park,2000,106604314,Universal Pictures,Action and Adventure
+1103,1419,NR,Frank Tashlin|Jerry Lewis,1960,20900803,Universal Pictures,Classics
+1104,1420,R,Miguel Arteta,2002,13737564,Fox Searchlight Pictures,Comedy
+1105,1423,G,Robert Stevenson,1975,20900803,Universal Pictures,Action and Adventure
+1106,1424,PG-13,Andrew Stanton|Mark Atkins,2012,73058679,Walt Disney Pictures,Action and Adventure
+1107,1426,R,Vincenzo Natali,1998,20900803,Universal Pictures,Horror
+1108,1428,R,Lasse Hallstrom,1990,20900803,Universal Pictures,Comedy
+1109,1431,R,Ron Shelton,1994,20900803,Universal Pictures,Drama
+1110,1433,NR,Tonino Ricci,1987,20900803,Universal Pictures,Action and Adventure
+1111,1434,NR,Chris Thomson,1987,20900803,Universal Pictures,Drama
+1112,1435,PG-13,Steven Spielberg,2008,42168445,Universal Pictures,Comedy
+1113,1436,NR,George Cukor,1940,20900803,Universal Pictures,Classics
+1114,1437,R,John Huston,1987,20900803,Universal Pictures,Horror
+1115,1439,R,Jamaa Fanaka,1980,20900803,Universal Pictures,Action and Adventure
+1116,1441,NR,Olivier Doran,1987,20900803,Universal Pictures,Comedy
+1117,1442,PG,Chris Columbus,2002,261835892,Warner Bros. Pictures,Kids and Family
+1118,1443,NR,Blake Edwards,1962,20900803,Universal Pictures,Classics
+1119,1444,R,Andrew Chapman,1987,20900803,Universal Pictures,Drama
+1120,1445,NR,David Swift,1963,20900803,Universal Pictures,Classics
+1121,1446,PG-13,Jay Roach,2000,164454835,Universal Pictures,Comedy
+1122,1447,R,Steven Spielberg,2011,3185193,Sony Pictures Classics,Art House and International
+1123,1448,G,Ulu Grosbard,1968,20900803,Universal Pictures,Classics
+1124,1449,PG-13,Lewis Teague,1985,20900803,Universal Pictures,Comedy
+1125,1450,R,John Maybury,2008,20900803,Capitol Films,Drama
+1126,1451,NR,Julius Onah,2018,20900803,Universal Pictures,Mystery and Suspense
+1127,1453,PG-13,Steven Spielberg,1989,20900803,Universal Pictures,Comedy
+1128,1454,R,Steven Spielberg,1987,20900803,Universal Pictures,Comedy
+1129,1457,NR,Fritz Lang,1934,20900803,Universal Pictures,Classics
+1130,1458,NR,Nikos Nikolaidis,1987,20900803,Universal Pictures,Art House and International
+1131,1459,NR,Zeresenay Berhane Mehari,1987,20900803,Truth Aid,Documentary
+1132,1460,NR,Hark Tsui,1995,20900803,Universal Pictures,Action and Adventure
+1133,1462,NR,Roy Kellino,1987,20900803,Universal Pictures,Drama
+1134,1463,R,Kevin Smith,2001,29885424,Dimension Films,Comedy
+1135,1464,PG,Clint Eastwood,1982,20900803,Universal Pictures,Action and Adventure
+1136,1465,NR,Megan Griffiths,1987,20900803,The Off Hours Film LLC,Drama
+1137,1466,PG-13,Richard Glatzer|Wash Westmoreland,2015,20900803,Sony Pictures Classics,Drama
+1138,1467,R,Steven Spielberg,2000,7518962,Lions Gate Releasing,Drama
+1139,1468,NR,Sam Newfield,1987,20900803,Universal Pictures,Western
+1140,1470,NR,Frank Borzage,1929,20900803,Universal Pictures,Classics
+1141,1471,R,Richard Linklater,1991,20900803,Universal Pictures,Classics
+1142,1472,NR,Lewis Gilbert,1958,20900803,Universal Pictures,Drama
+1143,1473,NR,Steven Spielberg,1987,20900803,Universal Pictures,Action and Adventure
+1144,1474,R,Marc Levin,1998,20900803,Universal Pictures,Drama
+1145,1475,PG,David Bowers,2009,19548064,Summit Entertainment,Action and Adventure
+1146,1476,R,Alan Rudolph,1988,20900803,Universal Pictures,Art House and International
+1147,1477,G,George Miller,1998,20900803,Universal Studios,Comedy
+1148,1478,NR,Brian Hooks|Barry Bowles,1987,20900803,Universal Pictures,Comedy
+1149,1480,NR,Steven Spielberg,1987,20900803,Universal Pictures,Classics
+1150,1482,NR,Oktay Ortabasi,1987,20900803,Greenlight Theatrical,Drama
+1151,1483,R,Jocelyn Moorhouse,2016,2021399,Universal Pictures,Drama
+1152,1484,PG,Alfred Hitchcock,1940,20900803,Universal Pictures,Action and Adventure
+1153,1485,R,Tom Holland,1987,20900803,Universal Pictures,Action and Adventure
+1154,1486,NR,Louis Malle,1958,109257,Universal Pictures,Art House and International
+1155,1487,PG-13,Tim Story,2014,20900803,Sony Pictures,Comedy
+1156,1488,G,Ben Stassen,2008,13592311,Summit Entertainment,Animation
+1157,1489,PG,Steven Hahn|John Sparey|Steve Hahn,1985,20900803,Universal Pictures,Animation
+1158,1490,PG-13,Lasse Hallstrom,1987,20900803,Universal Pictures,Art House and International
+1159,1492,PG-13,Michael Salomon|Mikael Salomon,2008,586242,Roadside Attractions,Comedy
+1160,1493,NR,Roger Corman,1987,20900803,Universal Pictures,Western
+1161,1494,R,David Fincher,2011,102515793,Sony Pictures,Drama
+1162,1495,NR,Robert Foster,1987,20900803,Universal Pictures,Drama
+1163,1496,PG-13,Rob Marshall,2005,57000000,Sony Pictures,Drama
+1164,1497,PG,Bilge Ebiri,2004,20900803,Universal Pictures,Comedy
+1165,1498,NR,Steven Spielberg,1991,20900803,Universal Pictures,Art House and International
+1166,1499,NR,Errol Morris,1981,20900803,Universal Pictures,Documentary
+1167,1501,R,Tinto Brass,1979,20900803,Universal Pictures,Classics
+1168,1502,NR,Steven Spielberg,1997,20900803,Universal Pictures,Action and Adventure
+1169,1503,R,Sidney Lumet,1989,20900803,Universal Pictures,Action and Adventure
+1170,1504,R,David Caesar,1987,20900803,Australian Film Finance Corporation,Action and Adventure
+1171,1505,R,Iain Softley,1994,20900803,Universal Pictures,Drama
+1172,1506,NR,Jing Wong,1987,20900803,Universal Pictures,Art House and International
+1173,1507,PG,Fred Savage,2007,13155823,Sony Pictures,Comedy
+1174,1508,NR,Yoav Shamir,2009,20900803,First Run Features,Documentary
+1175,1509,R,Michael Corrente,1999,20900803,Miramax,Comedy
+1176,1510,NR,Philip Haas,1987,20900803,Universal Pictures,Science Fiction and Fantasy
+1177,1511,NR,Gisaburo Sugii,1987,20900803,Universal Pictures,Animation
+1178,1512,R,Paul Verhoeven,1990,119000000,Universal Pictures,Action and Adventure
+1179,1513,NR,Sergei Parajanov,1967,20900803,Universal Pictures,Art House and International
+1180,1514,PG,Sylvester Stallone,1979,20900803,United Artists,Action and Adventure
+1181,1516,R,Bob Rafelson|George Bud Davis,1997,20900803,Universal Pictures,Drama
+1182,1517,PG,Barry Levinson,2006,37442180,Universal Pictures,Comedy
+1183,1518,NR,Henry Hathaway,1933,20900803,Universal Pictures,Action and Adventure
+1184,1519,PG-13,Jerry Zaks,1996,20900803,Universal Pictures,Drama
+1185,1520,PG-13,Shana Feste,2011,20218921,Universal Pictures,Drama
+1186,1522,R,Richard Linklater,1995,20900803,Universal Pictures,Comedy
+1187,1523,PG-13,Steven Soderbergh,2017,27696504,Fingerprint Releasing / Bleecker Street,Comedy
+1188,1525,PG-13,Sam Mendes,2012,299300000,MGM,Action and Adventure
+1189,1526,NR,Mauritz Stiller,1987,20900803,Universal Pictures,Action and Adventure
+1190,1527,PG-13,Donald Petrie,2004,14244145,20th Century Fox,Comedy
+1191,1528,R,Dan Mazer,2013,5851913,Magnolia Pictures,Art House and International
+1192,1529,R,James Bridges,1985,20900803,Universal Pictures,Drama
+1193,1530,NR,Robert Day,1987,20900803,Universal Pictures,Action and Adventure
+1194,1532,NR,Ford Beebe|Ray Taylor,1940,20900803,Universal Pictures,Action and Adventure
+1195,1533,NR,Fahran Akhtar|Farhan Akhtar,1987,20900803,Universal Pictures,Art House and International
+1196,1534,NR,Javier Olivera,2000,20900803,Universal Pictures,Action and Adventure
+1197,1535,PG-13,John Singleton,2003,127083765,Universal Pictures Distributio,Action and Adventure
+1198,1536,R,Tamra Davis,1993,20900803,Universal Pictures,Comedy
+1199,1539,R,Stephen Gyllenhaal,1998,20900803,Universal Pictures,Art House and International
+1200,1540,PG,Don Siegel,1987,20900803,Universal Pictures,Action and Adventure
+1201,1541,PG,Marc Forster,2018,20900803,Walt Disney Pictures,Action and Adventure
+1202,1542,R,Jonathan Liebesman,2006,39418953,New Line Cinema,Horror
+1203,1545,PG-13,Joe Wright,2009,31670931,Dreamworks/Paramount,Drama
+1204,1547,PG,Andrew Birkin,1987,20900803,Universal Pictures,Drama
+1205,1549,NR,Steven Spielberg,1959,20900803,Universal Pictures,Art House and International
+1206,1550,NR,Ralph Habib|Lee Robinson,1987,20900803,Universal Pictures,Action and Adventure
+1207,1553,NR,Steven Spielberg,1987,707672,Reliance Entertainment,Action and Adventure
+1208,1554,G,Britt Allcroft,2000,2027042,Destination Films,Kids and Family
+1209,1555,G,Elliot Silverstein|Elliott Silverstein,1965,20900803,Universal Pictures,Classics
+1210,1557,NR,Steven Spielberg,2001,20900803,Universal Pictures,Art House and International
+1211,1560,NR,Oliver Parker,1987,4683159,Universal Pictures International,Comedy
+1212,1561,R,Edgar Wright,2013,33408732,Focus Features,Comedy
+1213,1564,PG-13,Nicholas Jasenovec,2009,1149350,Overture Films,Comedy
+1214,1565,NR,Steven Spielberg,1987,20900803,Universal Pictures,Documentary
+1215,1567,NC17,John Waters,2004,1260219,New Line Cinema,Comedy
+1216,1568,R,Sergio Sollima,1966,20900803,Universal Pictures,Action and Adventure
+1217,1570,PG,Fred Schepisi,1984,20900803,Universal Pictures,Drama
+1218,1572,PG,Michael Apted,1980,20900803,Universal Pictures,Drama
+1219,1573,NR,Daston Kalili,1987,20900803,Universal Pictures,Documentary
+1220,1574,R,Maggie Carey,2013,3400000,CBS Films,Comedy
+1221,1575,NR,William Witney|John English,1987,20900803,Universal Pictures,Action and Adventure
+1222,1576,R,David Veloz,1998,20900803,Artisan,Documentary
+1223,1577,PG,Steve Rash,1978,20900803,Universal Pictures,Drama
+1224,1579,R,Steven Spielberg,2018,20900803,Sony Pictures Classics,Drama
+1225,1581,NR,Carl Bessai,1987,20900803,Film Sales Company,Art House and International
+1226,1582,R,Steven Spielberg,1984,20900803,Universal Pictures,Action and Adventure
+1227,1583,G,Casper Wrede|Caspar Wrede,1987,20900803,Universal Pictures,Art House and International
+1228,1584,NR,Michael Thornhill,1987,20900803,Universal Pictures,Action and Adventure
+1229,1585,PG-13,Andrew Tennant|Andy Tennant,2005,177575142,Sony Pictures,Comedy
+1230,1586,R,Joseph Ruben,1993,20900803,Universal Pictures,Drama
+1231,1588,PG-13,Christopher Nolan,2006,53100000,Universal Pictures,Action and Adventure
+1232,1591,NR,Haim Tabakman,2010,463914,Regent Releasing,Art House and International
+1233,1593,PG-13,Breck Eisner,2015,20900803,Summit Entertainment.,Action and Adventure
+1234,1597,R,John Landis,1992,20900803,Universal Pictures,Action and Adventure
+1235,1598,PG-13,Steven Spielberg,2008,40632110,20th Century Fox,Action and Adventure
+1236,1599,NR,Lucio Fulci,1987,20900803,Universal Pictures,Art House and International
+1237,1600,PG-13,Bryan Singer,2003,214813155,20th Century Fox,Action and Adventure
+1238,1601,PG,Gore Verbinski,2011,123188232,Paramount Pictures,Action and Adventure
+1239,1602,PG,Kasi Lemmons,2013,4894004,Fox Searchlight,Drama
+1240,1603,R,John Byrum,1987,20900803,Universal Pictures,Drama
+1241,1604,G,Alan Bunce,1989,20900803,Universal Pictures,Animation
+1242,1605,R,Beth B,1987,20900803,Universal Pictures,Drama
+1243,1606,R,Gus Van Sant,2007,241672,IFC First Take,Art House and International
+1244,1607,NR,Steven Spielberg,1987,20900803,Universal Pictures,Comedy
+1245,1608,PG-13,Steven Spielberg,2004,20900803,20th Century Fox,Action and Adventure
+1246,1609,NR,Peque Gallaga,1987,20900803,Universal Pictures,Art House and International
+1247,1610,R,Steven Spielberg,2003,20900803,Lions Gate Films,Comedy
+1248,1611,PG-13,Julian Jarrold,2015,1626909,Universal Pictures,Art House and International
+1249,1612,PG-13,Andrew Gallerani,1997,20900803,Universal Pictures,Comedy
+1250,1613,NR,Robert Greenwald,1984,20900803,Universal Pictures,Drama
+1251,1614,NR,Brent Leung,1987,20900803,Knowledge Matters,Documentary
+1252,1615,PG,Steven Spielberg,1975,20900803,Universal Pictures,Art House and International
+1253,1616,PG,Arthur Ripley,1946,20900803,Universal Pictures,Classics
+1254,1618,PG-13,Yimou Zhang,2004,10928042,Sony Pictures Classics,Action and Adventure
+1255,1620,R,Shinsuke Sato,2002,20900803,ADV Films,Action and Adventure
+1256,1622,PG,Nati Baratz,2009,20900803,Ocilloscope Pictures,Art House and International
+1257,1623,R,Vondie Curtis-Hall,1997,20900803,Universal Pictures,Comedy
+1258,1624,PG,Boris Sagal,1971,20900803,Universal Pictures,Classics
+1259,1626,NR,Cheol-su Park,1996,20900803,Universal Pictures,Art House and International
+1260,1627,R,Spike Lee,1995,20900803,Universal Pictures,Drama
+1261,1628,R,Luis Mandoki,1994,20900803,Universal Pictures,Comedy
+1262,1629,NR,Hong Sang-soo,1987,20900803,Universal Pictures,Art House and International
+1263,1630,NR,Paul Wendkos,1959,20900803,Universal Pictures,Classics
+1264,1631,NR,Antonio Bonifacio,1987,20900803,Universal Pictures,Art House and International
+1265,1632,R,Gary Fleder,1997,20900803,Universal Pictures,Drama
+1266,1633,NR,Tian Zhuangzhuang,1986,20900803,Universal Pictures,Art House and International
+1267,1636,PG,Charles Sturridge,1994,20900803,Universal Pictures,Drama
+1268,1638,R,Michael Lehmann,2002,20900803,Miramax Films,Comedy
+1269,1639,NR,Jeanne Labrune,2011,8856,First Run Features,Art House and International
+1270,1640,PG-13,Deborah Brock,1991,20900803,Universal Pictures,Comedy
+1271,1641,PG,Sean McNamara,1998,20900803,Universal Pictures,Action and Adventure
+1272,1642,NR,Richard Quine,1957,20900803,Universal Pictures,Classics
+1273,1643,R,Douglas Aarniokoski,2000,20900803,Miramax Films,Action and Adventure
+1274,1644,PG-13,Lawrence Kasdan,1985,33200000,Universal Pictures,Action and Adventure
+1275,1645,R,David Mackenzie,2016,26973524,Film 44,Drama
+1276,1646,R,Alexander Payne,2013,11348612,Paramount Pictures,Drama
+1277,1647,PG,Terence Young,1965,20900803,Universal Pictures,Action and Adventure
+1278,1650,NR,Terry Marcel,1987,20900803,Universal Pictures,Science Fiction and Fantasy
+1279,1651,R,Atom Egoyan,1994,20900803,Universal Pictures,Art House and International
+1280,1653,NR,Kira Muratova,1987,20900803,Universal Pictures,Drama
+1281,1654,PG,Gordon Douglas,1987,20900803,Universal Pictures,Action and Adventure
+1282,1655,NR,Ravi Chopra,1987,20900803,Universal Pictures,Action and Adventure
+1283,1656,R,Frank Whaley,1999,20900803,Universal Pictures,Drama
+1284,1657,NR,Dante Lam,2018,1526248,Universal Pictures,Action and Adventure
+1285,1659,NR,Jean Negulesco,1987,20900803,Universal Pictures,Mystery and Suspense
+1286,1660,NR,David MacDonald,1955,20900803,Universal Pictures,Science Fiction and Fantasy
+1287,1661,NR,Steven Spielberg,2000,20900803,Universal Pictures,Art House and International
+1288,1663,NR,Dick Maas,1987,20900803,Universal Pictures,Comedy
+1289,1665,R,Mark Neveldine|Brian Taylor,2009,13630226,Lionsgate,Action and Adventure
+1290,1667,PG-13,Thom Eberhardt,1984,20900803,Universal Pictures,Comedy
+1291,1668,NR,Steven Spielberg,1987,20900803,Universal Pictures,Comedy
+1292,1669,R,Matthew Heineman,1987,20900803,Aviron Pictures,Drama
+1293,1671,NR,Jeremiah Zagar,2008,20900803,International Film Circuit,Documentary
+1294,1672,NR,George Marshall,1939,20900803,Universal Pictures,Classics
+1295,1673,R,Steven Spielberg,1997,20900803,Universal Pictures,Action and Adventure
+1296,1674,NR,Leslie Cockburn,1987,20900803,Argot Pictures,Documentary
+1297,1677,PG,Tim McCanlies,2003,41407470,New Line Cinema,Comedy
+1298,1678,PG,Jerry Jameson,1977,20900803,Universal Pictures,Action and Adventure
+1299,1679,NR,Steven Spielberg,1987,20900803,Universal Pictures,Horror
+1300,1680,R,Josh Mond,2015,101368,The Film Arcade,Drama
+1301,1681,NR,Steven Spielberg,1999,20900803,Universal Pictures,Art House and International
+1302,1682,PG-13,Clint Eastwood,2018,35003216,Universal Pictures,Drama
+1303,1684,PG,Alan Metter,1985,20900803,Universal Pictures,Comedy
+1304,1685,R,Nick Cassavetes,2007,15133185,Universal Studios,Drama
+1305,1686,PG-13,Les Mayfield,1999,20900803,Sony Pictures Home Entertainment,Action and Adventure
+1306,1689,NR,Carol Reed,1965,20900803,Universal Pictures,Classics
+1307,1690,PG,Ron Clements|John Musker,2002,38120554,Buena Vista Distribution Compa,Action and Adventure
+1308,1691,R,Mike Cahill,2014,20900803,Fox Searchlight,Drama
+1309,1692,PG,Claude Whatham,1973,20900803,Universal Pictures,Classics
+1310,1693,PG-13,Ryan Little,2008,549351,Crane Movie Company,Drama
+1311,1695,PG-13,Paul Greengrass,2004,176049130,Universal Pictures,Action and Adventure
+1312,1696,R,Paolo Taviani|Vittorio Taviani,1984,20900803,Universal Pictures,Art House and International
+1313,1698,PG,Steven Spielberg,1993,20900803,Universal Pictures,Comedy
+1314,1699,G,Phil Roman,1992,20900803,Universal Pictures,Animation
+1315,1700,NR,Loc Do,1987,20900803,Universal Pictures,Drama
+1316,1701,R,Scott Reynolds,2002,20900803,Universal Pictures,Action and Adventure
+1317,1702,PG-13,Robert Towne,1998,20900803,Universal Pictures,Documentary
+1318,1703,PG,Akira Kurosawa,1980,20900803,Universal Pictures,Art House and International
+1319,1704,PG-13,Morten Tyldum,2014,20900803,The Weinstein Company,Drama
+1320,1705,NR,Ian Madden,2006,20900803,Universal Pictures,Drama
+1321,1707,PG-13,John Stockwell,2005,18472363,Sony Pictures,Action and Adventure
+1322,1710,PG-13,Steven Spielberg,1963,20900803,Universal Pictures,Action and Adventure
+1323,1711,G,Garry Marshall,2004,95111012,Universal Pictures,Comedy
+1324,1712,NR,Helma Sanders-Brahms,1997,20900803,Universal Pictures,Art House and International
+1325,1713,G,Eric Rohmer,1992,20900803,Big World Pictures,Drama
+1326,1714,NR,Anahita Ghazvinizadeh,1987,20900803,Universal Pictures,Drama
+1327,1716,NR,Claude Gagnon,1992,32000000,Universal Pictures,Drama
+1328,1718,PG-13,Ryan Coogler,2015,81157671,Warner Bros.,Drama
+1329,1720,R,John Badham,1994,20900803,Universal Pictures,Action and Adventure
+1330,1721,R,Kelly Fremon Craig,2016,14260193,STX Entertainment,Comedy
+1331,1722,PG-13,Justin Lin,2011,209805005,Universal Pictures,Action and Adventure
+1332,1723,NR,Karl Zwicky,1987,20900803,Universal Pictures,Action and Adventure
+1333,1724,R,Lee Tamahori,1997,20900803,Universal Pictures,Action and Adventure
+1334,1727,NR,Joseph Santley,1987,20900803,Universal Pictures,Western
+1335,1729,PG-13,Ridley Scott,1992,20900803,Universal Pictures,Action and Adventure
+1336,1730,PG,John Pasquin,1994,20900803,Universal Pictures,Action and Adventure
+1337,1731,R,Philippe Mora,1982,20900803,Universal Pictures,Horror
+1338,1732,R,Peter Medak,1990,20900803,Universal Pictures,Action and Adventure
+1339,1733,NR,Nathan Hill,1987,20900803,Universal Pictures,Drama
+1340,1734,NR,George Cukor,1962,20900803,Universal Pictures,Classics
+1341,1735,NR,Alain Tanner,1983,20900803,Universal Pictures,Art House and International
+1342,1736,NR,Steven Spielberg,1987,20900803,Universal Pictures,Drama
+1343,1737,R,Robert Deubel,1987,20900803,Universal Pictures,Horror
+1344,1738,NR,Emilio Ferrari,1987,20900803,Universal Pictures,Drama
+1345,1739,NR,Jayne Loader|Kevin Rafferty|Pierce Rafferty,1982,20900803,Universal Pictures,Documentary
+1346,1740,R,John Gray,1996,20900803,Universal Pictures,Action and Adventure
+1347,1741,PG-13,Jim Goddard,1986,20900803,Universal Pictures,Action and Adventure
+1348,1742,PG,Rob Reiner,1987,20900803,20th Century Fox,Action and Adventure
+1349,1743,G,Art Vitello,1987,20900803,Universal Pictures,Animation
+1350,1744,PG-13,Steven Spielberg,2003,12900000,Warner Bros. Pictures,Classics
+1351,1745,PG,Steven Spielberg,1982,20900803,Universal Pictures,Comedy
+1352,1746,NR,Sergei Parajanov,1980,20900803,Universal Pictures,Art House and International
+1353,1747,R,Will Canon,2011,16632,Phase 4 Films,Drama
+1354,1749,PG-13,Jon Amiel,1993,20900803,Universal Pictures,Drama
+1355,1750,R,David Fincher,1999,20900803,20th Century Fox,Comedy
+1356,1751,R,Neil LaBute,2000,20900803,USA Films,Comedy
+1357,1752,R,Peter Hyams,1983,20900803,Universal Pictures,Drama
+1358,1753,NR,Paul Powell,1987,20900803,Universal Pictures,Comedy
+1359,1754,R,Eddie Davis,1987,20900803,Universal Pictures,Drama
+1360,1756,NR,Nagisa Oshima,1987,20900803,Universal Pictures,Art House and International
+1361,1757,PG-13,Trish Sie,2014,13617501,Lionsgate,Drama
+1362,1758,PG-13,Steven Spielberg,2004,20900803,20th Century Fox,Action and Adventure
+1363,1760,PG,Joe Pytka,1996,20900803,Universal Pictures,Comedy
+1364,1761,NR,Sidney Gilliat,1987,20900803,Universal Pictures,Classics
+1365,1762,PG-13,Jake Schreier,2015,20900803,20th Century Fox,Drama
+1366,1763,R,Stephen Norrington,1994,20900803,Universal Pictures,Action and Adventure
+1367,1765,R,Rodman Flender,1999,20900803,Universal Pictures,Comedy
+1368,1767,R,Mary Harron,2000,20900803,Lions Gate Films,Comedy
+1369,1768,NR,Lina Mannheimer,1987,20900803,Universal Pictures,Documentary
+1370,1769,PG,Rod Daniel,1985,20900803,Universal Pictures,Comedy
+1371,1770,R,Robert Ginty,1987,20900803,Universal Pictures,Action and Adventure
+1372,1771,NR,Fritz Lang,1955,20900803,Universal Pictures,Action and Adventure
+1373,1772,R,Sebastian Gutierrez,2001,20900803,Universal Pictures,Horror
+1374,1773,PG-13,Paul Mazursky,1988,20900803,Universal Pictures,Comedy
+1375,1774,NR,Jae-eun Jeong,2002,20900803,Kino International,Art House and International
+1376,1775,R,Kasi Lemmons,2007,4436352,Focus Features,Action and Adventure
+1377,1776,R,Paul Mazursky,1976,20900803,Universal Pictures,Comedy
+1378,1777,R,Joel Coen|Ethan Coen,2007,74223625,Miramax Films,Action and Adventure
+1379,1778,NR,Hans Neiter,1987,20900803,Universal Pictures,Documentary
+1380,1779,PG,Richard Wallace,1987,20900803,Universal Pictures,Action and Adventure
+1381,1781,PG-13,Peter Bogdanovich,1993,20900803,Universal Pictures,Comedy
+1382,1784,NR,Byron Haskin,1954,20900803,Universal Pictures,Action and Adventure
+1383,1785,R,Steven Spielberg,2002,39532308,Columbia Tristar Pictures,Action and Adventure
+1384,1786,R,Peter Sehr,2003,20900803,Kino International,Art House and International
+1385,1787,R,Cornel Wilde,1970,20900803,Universal Pictures,Drama
+1386,1788,PG,Jane Campion,2009,4341275,Apparition Films,Drama
+1387,1789,R,Adrian Lyne,1993,20900803,Universal Pictures,Drama
+1388,1790,R,Paul Bogart,1988,20900803,Universal Pictures,Comedy
+1389,1793,R,Jim Jarmusch,2000,20900803,Artisan Entertainment,Action and Adventure
+1390,1794,NR,Krzysztof Kieslowski,1989,20900803,Universal Pictures,Art House and International
+1391,1795,PG,Steven Spielberg,1967,20900803,Universal Pictures,Action and Adventure
+1392,1797,R,Arturo Ripstein,1987,20900803,Universal Pictures,Action and Adventure
+1393,1798,PG,Ash Brannon,2017,9404922,Summit Premiere,Animation
+1394,1799,NR,Mitchell Leisen,1987,20900803,Universal Pictures,Drama
+1395,1800,R,Stephen Daldry,2000,20900803,Universal Pictures,Comedy
+1396,1801,PG-13,Peter Weir,2011,2500000,Universal Pictures,Drama
+1397,1802,NR,George Marshall,1987,20900803,Universal Pictures,Action and Adventure
+1398,1803,PG-13,Jocelyn Moorhouse,1995,20900803,Universal Pictures,Comedy
+1399,1804,PG-13,Terry Hughes,1991,20900803,Universal Pictures,Comedy
+1400,1805,NR,Joe Hisaishi,1987,20900803,Universal Pictures,Drama
+1401,1807,R,Damian Harris|Damien Harris,1989,20900803,Universal Pictures,Art House and International
+1402,1808,R,Sean Penn,2007,18173360,Paramount Vantage,Action and Adventure
+1403,1809,R,Larry Cohen,1987,20900803,Universal Pictures,Comedy
+1404,1812,PG,Steven Spielberg,1984,20900803,Universal Pictures,Action and Adventure
+1405,1813,G,Kinji Fukasaku,1969,20900803,Universal Pictures,Drama
+1406,1814,NR,Lukas Moodysson,1999,20900803,Universal Pictures,Art House and International
+1407,1815,NR,George Sidney,1987,20900803,Universal Pictures,Comedy
+1408,1816,PG-13,Robert Altman,1999,20900803,Universal Pictures,Comedy
+1409,1818,PG,Terence Young|Gail Harvey,1987,20900803,Universal Pictures,Action and Adventure
+1410,1819,PG-13,Steven Spielberg,2018,20900803,Warner Bros. Pictures,Action and Adventure
+1411,1820,NR,Raoul Ruiz,1987,20900803,Universal Pictures,Comedy
+1412,1821,NR,Roman Bondarchuk,1987,20900803,Universal Pictures,Art House and International
+1413,1822,PG-13,James Marsh,2011,410077,Roadside Attractions,Art House and International
+1414,1823,NR,Pjer Zalica,2005,20900803,Universal Pictures,Art House and International
+1415,1824,NR,Romuald Karmakar,1995,20900803,Universal Pictures,Art House and International
+1416,1825,NR,William Eubank,1987,20900803,Universal Pictures,Drama
+1417,1826,PG,John Glen,1983,20900803,Universal Pictures,Action and Adventure
+1418,1828,NR,Heiner Carow,1991,20900803,Universal Pictures,Art House and International
+1419,1829,NR,Steven Spielberg,1987,20900803,Universal Pictures,Animation
+1420,1830,NR,Judd Ehrlich,2008,20900803,Screen Media Films,Documentary
+1421,1832,R,Danny Boyle,2017,2395410,TriStar Pictures,Drama
+1422,1834,R,Kurt Wimmer,2002,20900803,Miramax Films,Drama
+1423,1835,R,Paddy Breathnach,1998,20900803,Universal Pictures,Comedy
+1424,1837,PG,Julian Jarrold,2007,18602895,Miramax Films,Drama
+1425,1839,PG,Lucy Walker,2017,118253,Universal Pictures,Documentary
+1426,1840,R,Bernardo Bertolucci,1996,20900803,Universal Pictures,Drama
+1427,1841,R,James Mangold,1997,20900803,Miramax,Action and Adventure
+1428,1843,PG-13,John Schlesinger,2000,20900803,Paramount Home Video,Art House and International
+1429,1844,R,Trey Parker,2004,32700000,Paramount Pictures,Comedy
+1430,1845,R,James Cox,2018,20900803,Universal Pictures,Drama
+1431,1847,NR,George Sidney,1950,20900803,Universal Pictures,Classics
+1432,1848,R,Darren Aronofsky,1998,20900803,Universal Pictures,Action and Adventure
+1433,1849,NR,Maud Linder,1987,20900803,Universal Pictures,Art House and International
+1434,1850,PG-13,Michael Rhodes,1996,20900803,Universal Pictures,Drama
+1435,1851,NR,John Hubley|Faith Hubley,1987,20900803,Universal Pictures,Animation
+1436,1852,NR,Alejandro Gamboa,1987,20900803,Universal Pictures,Art House and International
+1437,1853,PG-13,Sam Weisman,1994,20900803,Universal Pictures,Comedy
+1438,1854,PG,Robert Florey,1987,20900803,Universal Pictures,Action and Adventure
+1439,1855,G,Steven Spielberg,1991,20900803,Universal Pictures,Action and Adventure
+1440,1857,R,David Twohy,2009,15536310,Universal Pictures,Action and Adventure
+1441,1858,G,Boris Sagal,1987,20900803,Universal Pictures,Classics
+1442,1859,R,Andrzej Bartkowiak,2003,34600000,Warner Bros.,Action and Adventure
+1443,1860,NR,Sam Peckinpah,1987,20900803,Universal Pictures,Classics
+1444,1861,R,Harry Bromley Davenport,1983,20900803,Universal Pictures,Art House and International
+1445,1862,PG-13,Benson Lee,2013,8888355,Sony Pictures,Drama
+1446,1863,NR,Gerald Thomas,1987,20900803,Universal Pictures,Comedy
+1447,1864,NR,Jackie Earle Haley,2015,20900803,Universal Pictures,Drama
+1448,1865,R,Craig Brewer,2007,9262318,Paramount Vantage,Drama
+1449,1866,NR,David Lean,1955,20900803,Universal Pictures,Classics
+1450,1867,G,John Ford|Henry Hathaway|George Marshall|Richard Thorpe,1963,20900803,Universal Pictures,Action and Adventure
+1451,1869,R,Steven Spielberg,1987,20900803,Universal Pictures,Action and Adventure
+1452,1870,R,Steve Miner,1981,20900803,Universal Pictures,Horror
+1453,1871,R,Francis Ford Coppola,1987,20900803,Universal Pictures,Drama
+1454,1873,R,Steven Spielberg,1983,20900803,Universal Pictures,Horror
+1455,1874,R,Sompote Sands,1987,20900803,Universal Pictures,Horror
+1456,1875,PG-13,Jason Bloom|James Bloom,1998,20900803,Universal Pictures,Comedy
+1457,1876,NR,Ann Hui,2003,20900803,Universal Pictures,Art House and International
+1458,1877,PG-13,Peter Berg,2008,227946274,Columbia Pictures,Action and Adventure
+1459,1879,PG,Mary McGuckian,2005,20900803,Universal Pictures,Art House and International
+1460,1880,R,Kevin Tenney,1986,20900803,Cinema Group,Horror
+1461,1881,PG,Chris Columbus,1999,20900803,Buena Vista Pictures,Comedy
+1462,1882,PG,Phil Johnston|Rich Moore,1987,20900803,Walt Disney Animation Studios,Animation
+1463,1883,PG,Michael Winner,1973,20900803,Universal Pictures,Action and Adventure
+1464,1884,PG-13,David Zucker,2006,90672025,Weinstein Co.,Comedy
+1465,1885,NR,Nathan Juran,1964,20900803,Universal Pictures,Action and Adventure
+1466,1886,PG,Ron Howard,1995,20900803,Universal Pictures,Action and Adventure
+1467,1888,R,Marc Ickx,2002,20900803,Universal Pictures,Horror
+1468,1889,PG,Milos Forman,1981,20900803,Universal Pictures,Drama
+1469,1890,R,Conrad Vernon|Greg Tiernan,2016,97661826,Sony Pictures,Animation
+1470,1891,NR,Seijun Suzuki,1966,20900803,Universal Pictures,Action and Adventure
+1471,1892,PG,Steven Spielberg,1975,20900803,Universal Pictures,Action and Adventure
+1472,1894,R,Karel Reisz,1981,20900803,Universal Pictures,Art House and International
+1473,1896,PG,Richard Marquand,1983,20900803,Twentieth Century Fox,Action and Adventure
+1474,1897,NR,Jonah Tulis,1987,20900803,Gravitas,Comedy
+1475,1898,R,Daniel Lee,2015,72413,Universal Pictures,Action and Adventure
+1476,1899,PG,Tim Burton,1988,20900803,Universal Pictures,Comedy
+1477,1900,R,Rick Cluchey,1987,20900803,Universal Pictures,Action and Adventure
+1478,1901,R,Bharat Nalluri,2015,20900803,Universal Pictures,Action and Adventure
+1479,1902,NR,Robert Day,1958,20900803,Universal Pictures,Horror
+1480,1903,R,Simon Hunter,2008,20900803,Magnolia Pictures,Action and Adventure
+1481,1905,R,Jasmin Dizdar|Jasmine Bizdar,2000,20900803,Universal Pictures,Art House and International
+1482,1907,PG-13,Hironobu Sakaguchi|Motonori Sakakibara|Jack Fletcher,2001,20900803,Columbia Pictures,Animation
+1483,1908,NR,John Krish,1987,20900803,Universal Pictures,Science Fiction and Fantasy
+1484,1910,R,Nadine Labaki,1987,20900803,Sony Pictures Classics,Drama
+1485,1911,PG,Sidney Lumet,1971,20900803,Universal Pictures,Classics
+1486,1912,PG,Bill Duke,1993,20900803,Universal Pictures,Comedy
+1487,1913,NR,Steven Spielberg,1987,20900803,Universal Pictures,Action and Adventure
+1488,1914,R,Steven Spielberg,1994,20900803,Universal Pictures,Art House and International
+1489,1916,NR,Colin Bucksey,1987,20900803,Universal Pictures,Drama
+1490,1918,NR,Henry MacRae|Harry McRae,1929,20900803,Universal Pictures,Action and Adventure
+1491,1920,NR,Shmuel Hasfari,1987,20900803,Universal Pictures,Action and Adventure
+1492,1922,PG-13,Keenen Ivory Wayans,2006,58255287,Sony Pictures Releasing,Comedy
+1493,1923,PG,Steven Spielberg,1988,20900803,Universal Pictures,Comedy
+1494,1924,PG-13,Curtis Hanson,1994,20900803,Universal Pictures,Action and Adventure
+1495,1926,PG-13,Matthew Robbins,1985,20900803,Universal Pictures,Action and Adventure
+1496,1927,R,Paul Verhoeven,1992,20900803,Universal Pictures,Drama
+1497,1929,R,Milos Forman,1984,20900803,Warner Bros. Pictures,Drama
+1498,1930,PG,Guy Hamilton,1966,20900803,Universal Pictures,Action and Adventure
+1499,1931,PG-13,Peter Landesman,2017,766428,Sony Pictures Classics,Drama
+1500,1932,PG-13,Tom Dey,2006,88658172,Paramount Pictures,Comedy
+1501,1933,R,Peter Greenaway,1988,20900803,Universal Pictures,Art House and International
+1502,1935,PG-13,Alex Proyas,2004,144738046,20th Century Fox,Action and Adventure
+1503,1937,PG-13,Steven Spielberg,2018,20900803,STXfilms,Drama
+1504,1938,NR,Henry Koster,1961,20900803,Universal Pictures,Classics
+1505,1939,NR,Steven Spielberg,1987,20900803,Universal Pictures,Drama
+1506,1940,R,Harald Zwart,2001,5689784,USA Films,Comedy
+1507,1941,R,Nancy Savoca,1993,20900803,Universal Pictures,Comedy
+1508,1942,NR,Vishal Bhardwaj,2013,20900803,Fox International,Comedy
+1509,1943,R,Steven Spielberg,2003,2646396,Sony Pictures Classics,Art House and International
+1510,1944,PG-13,Michel Gondry,2011,98000000,Sony Pictures,Action and Adventure
+1511,1945,PG,Bobby Farrelly|Peter Farrelly,2012,41800000,20th Century Fox,Comedy
+1512,1946,R,James Wong,2000,20900803,New Line Cinema,Horror
+1513,1947,PG-13,Marleen Gorris,2001,20900803,Sony Pictures Classics,Art House and International
+1514,1949,PG,Barnet Kellman,1992,20900803,Universal Pictures,Comedy
+1515,1950,R,Andrew Davis,1985,20900803,Universal Pictures,Action and Adventure
+1516,1951,NR,Stuart Heisler,1952,20900803,Universal Pictures,Classics
+1517,1952,NR,Maclean Rogers,1987,20900803,Universal Pictures,Action and Adventure
+1518,1953,R,Ricki Stern|Anne Sundberg,2010,2927972,IFC Films,Comedy
+1519,1955,PG-13,Clint Eastwood,1995,20900803,Universal Pictures,Drama
+1520,1956,R,Jimmy Sangster,1971,20900803,Universal Pictures,Art House and International
+1521,1957,NR,Stefan Ruzowitzky,1987,20900803,Universal Pictures,Art House and International
+1522,1958,G,Amir Motlagh,1987,20900803,Universal Pictures,Drama
+1523,1959,R,Michael Winterbottom,1998,20900803,Universal Pictures,Drama
+1524,1960,PG-13,Ava DuVernay,2015,20900803,Paramount Pictures,Drama
+1525,1961,NR,Zhang Jun Zhao,1987,20900803,Universal Pictures,Drama
+1526,1962,PG-13,Ridley Scott,2003,36873198,Warner Bros. Pictures,Comedy
+1527,1963,R,Murray Fahey,2001,20900803,Universal Pictures,Horror
+1528,1965,G,Robert Ramirez,2004,2782548,Warner Bros. Pictures,Animation
+1529,1966,PG-13,Tom DeCerchio|Tom De Cerchio,1996,20900803,Universal Pictures,Comedy
+1530,1968,PG,Cameron Crowe,2011,72700000,20th Century Fox,Comedy
+1531,1969,PG,Melvin Frank,1976,20900803,Universal Pictures,Action and Adventure
+1532,1970,PG-13,Greg Beeman,1988,20900803,Universal Pictures,Comedy
+1533,1971,NR,Steven Hilliard Stern,1987,20900803,Universal Pictures,Drama
+1534,1972,R,Stephen Sommers,1998,20900803,Universal Pictures,Action and Adventure
+1535,1973,R,George Kaczender,2004,20900803,Universal Pictures,Action and Adventure
+1536,1975,NR,Vikramaditya Motwane,2013,581813,Universal Pictures,Drama
+1537,1976,NR,Ciro Guerra,2016,1320005,Buffalo Films,Action and Adventure
+1538,1977,NR,Norman Taurog,1966,20900803,Universal Pictures,Classics
+1539,1978,R,Steven Spielberg,1998,20900803,Universal Pictures,Art House and International
+1540,1979,G,Michael Curtiz,1987,20900803,Universal Pictures,Classics
+1541,1980,PG-13,Joss Whedon,2005,25335935,Universal Pictures,Action and Adventure
+1542,1981,NR,Gauri Shinde,2012,1416189,Eros Entertainment,Comedy
+1543,1982,R,Steven Spielberg,1987,20900803,Universal Pictures,Drama
+1544,1983,G,Burny Mattinson|Ron Clements|John Musker|Dave Michener,1986,20900803,Universal Pictures,Action and Adventure
+1545,1985,R,Sebastian Gutierrez,2007,59371,IDP Distribution,Horror
+1546,1986,PG,Steven Spielberg,2002,794306,Universal Pictures,Art House and International
+1547,1987,PG-13,Phil Alden Robinson,1987,20900803,Universal Pictures,Comedy
+1548,1988,R,Les Rose,1987,20900803,Universal Pictures,Comedy
+1549,1989,NR,Steven Spielberg,1987,20900803,Universal Pictures,Art House and International
+1550,1990,R,Franco Brusati,1974,20900803,Universal Pictures,Art House and International
+1551,1991,R,Rick Rubin,1987,20900803,Universal Pictures,Action and Adventure
+1552,1992,R,Joel Coen,1991,20900803,Universal Pictures,Comedy
+1553,1993,PG,James Lapine,1993,20900803,Universal Pictures,Comedy
+1554,1995,PG-13,Barry Sonnenfeld,1999,20900803,Warner Bros. Pictures,Action and Adventure
+1555,1996,R,Steven Spielberg,2006,33886034,New Line Cinema,Action and Adventure
+1556,1997,PG,Steve Barron,1993,20900803,Paramount Vantage,Comedy
+1557,1998,G,Gordon Douglas,1962,20900803,Universal Pictures,Classics
+1558,1999,PG,David Mickey Evans,1993,20900803,Universal Pictures,Comedy
+1559,2000,R,Steven Spielberg,2001,20900803,Columbia Pictures,Action and Adventure

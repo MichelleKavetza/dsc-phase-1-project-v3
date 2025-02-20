@@ -1,0 +1,296 @@
+,id,rating,director,year,box_office,genre
+1,3,R,David Cronenberg,2012,600000,Drama
+6,10,PG-13,Jake Kasdan,2002,41032915,Comedy
+7,13,R,Ray Lawrence,2006,224114,Drama
+8,14,R,Taylor Hackford,2010,134904,Drama
+15,22,R,George Hickenlooper,2010,1039869,Comedy
+18,25,PG-13,Carl Erik Rinsch,2013,20518224,Action and Adventure
+19,26,R,Jim Jarmusch,2004,1971135,Art House and International
+28,40,R,John Sayles,2003,312136,Drama
+29,41,R,Ken Loach,2003,201010,Drama
+48,61,R,James Wong,2006,54100000,Action and Adventure
+51,65,PG,Kevin Lima,2007,127706877,Comedy
+52,66,R,Niels Arden Oplev,2013,10880926,Mystery and Suspense
+60,75,R,Patrick Lussier,2011,10706786,Action and Adventure
+61,77,PG-13,Tom Hanks,2011,35565975,Comedy
+69,87,PG,Bruce Beresford,2010,4806750,Art House and International
+76,95,R,Ben Younger,2016,5051927,Drama
+86,108,R,Derrick Borte,2010,1000000,Comedy
+97,124,PG-13,Rob Bowman,2002,42929971,Action and Adventure
+106,136,R,Christian Alvart,2010,13248477,Horror
+120,153,PG,Thor Freudenthal,2010,64001297,Comedy
+121,155,R,Jennifer Jason Leigh|Alan Cumming,2001,2974308,Comedy
+123,158,PG-13,Clint Eastwood,2009,37431431,Drama
+124,159,PG-13,Sam Weisman,2003,22715908,Comedy
+125,160,PG-13,Martin Campbell,2000,67771442,Action and Adventure
+130,165,R,Jamie Blanks,2001,19755422,Horror
+139,182,PG,Thor Freudenthal,2009,73023275,Action and Adventure
+144,188,R,Colin Trevorrow,2012,4007792,Comedy
+146,191,NR,Rakeysh Omprakash Mehra|Rakeysh Omprakesh Mehra,2013,1626289,Drama
+151,196,PG-13,Jeff Byrd,2005,3998889,Comedy
+159,210,PG-13,Derek Cianfrance,2016,12533911,Drama
+160,211,R,Lars von Trier,2000,2839256,Drama
+165,218,PG-13,Gore Verbinski,2002,128579698,Drama
+173,227,PG,Todd Graff,2009,5205343,Comedy
+188,249,R,Stan Lathan|Vondie Curtis-Hall,2006,21318194,Action and Adventure
+189,250,R,Neil Jordan,2013,84293,Art House and International
+190,251,R,Todd Haynes,2015,8518148,Drama
+198,263,R,Rob Zombie,2003,12583510,Horror
+201,267,R,Mark Helfrich,2007,35000629,Comedy
+214,281,R,Seth MacFarlane,2014,37331031,Comedy
+218,285,R,Tim Heidecker|Eric Wareheim,2012,145778,Comedy
+223,290,R,Michael Mann,2006,63400000,Action and Adventure
+230,300,PG-13,Ryan Murphy,2010,80574010,Drama
+231,301,PG-13,David Koepp,2004,47781388,Drama
+234,304,R,Jennifer Westfeldt,2012,5600000,Comedy
+242,313,R,David Lowery,2013,200000,Drama
+246,321,R,Seth Gordon,2013,134455175,Comedy
+247,322,R,Guillermo del Toro,2015,25957696,Horror
+249,326,PG-13,Mike Leigh,2010,3200000,Comedy
+253,331,PG-13,Jeffrey Levy-Hinte,2009,200000,Documentary
+259,337,R,Yimou Zhang,2011,308164,Art House and International
+260,338,PG-13,Clint Eastwood,2010,32741596,Drama
+261,345,PG-13,Tyler Perry,2014,15986272,Comedy
+269,355,R,Michael Tiddes,2014,13710572,Comedy
+270,356,R,Laurence Dunmore,2006,4756532,Drama
+271,357,PG,Jorge Blanco,2009,42194060,Action and Adventure
+278,367,PG-13,Stephen Bradley,2015,347321,Drama
+287,377,R,Ang Lee,2009,7366736,Comedy
+311,410,R,Darnell Martin,2008,8134217,Drama
+318,418,PG-13,Pete Travis,2008,72266306,Action and Adventure
+323,423,NR,Dave Grohl,2013,419361,Documentary
+326,427,PG,Bruce Beresford,2002,1341151,Art House and International
+330,433,PG-13,Doug Liman,2002,121500000,Action and Adventure
+338,443,PG-13,Tim Story,2005,154485963,Action and Adventure
+346,452,PG,Kevin Munroe,2007,54132596,Action and Adventure
+347,453,PG,John Schultz,2009,24967943,Action and Adventure
+349,456,R,Christophe Gans,2006,46982632,Action and Adventure
+351,458,PG-13,Woody Allen,2011,55400000,Comedy
+356,465,PG,Rowdy Herrington,2004,2536460,Drama
+358,468,PG-13,Brian Robbins,2001,39697363,Comedy
+359,469,PG-13,Leon Gast,2010,2367,Documentary
+370,482,PG,Simon Wells,2011,21379315,Action and Adventure
+371,483,NR,Jayro Bustamante,2016,292923,Art House and International
+373,486,NR,Nanni Moretti,2012,480926,Comedy
+378,491,PG,Adam Shankman,2005,82468131,Comedy
+389,504,PG,Jared Hess,2004,44478018,Comedy
+390,505,R,Jordan Vogt-Roberts,2013,1300000,Comedy
+400,520,PG,John Stephenson,2013,2209479,Drama
+406,528,R,Tamara Jenkins,2007,6426953,Comedy
+412,539,R,Jenniphr Goodman,2000,2586310,Art House and International
+414,542,R,John Dahl,2001,21254983,Action and Adventure
+423,554,PG-13,Jimmy Hayward,2010,10500000,Action and Adventure
+430,563,PG-13,Clare Kilner,2005,32000000,Comedy
+434,567,PG-13,Trish Sie,2017,104880310,Comedy
+436,572,PG-13,Dennis Dugan,2003,35764982,Action and Adventure
+443,582,R,Anton Corbijn,2014,14037964,Drama
+450,590,PG-13,Justin Chadwick,2008,26800000,Drama
+454,596,G,Adam Ravetch|Sarah Robertson,2007,598103,Documentary
+466,610,PG-13,Florian Henckel von Donnersmarck,2010,67631157,Action and Adventure
+467,611,R,Clint Eastwood,2003,88800000,Drama
+477,623,R,Guy Maddin,2012,22099,Art House and International
+479,626,R,James Isaac,2002,12610731,Horror
+492,643,PG-13,Dave McCary,2017,529426,Comedy
+504,661,PG,Joel Zwick,2002,241250669,Comedy
+509,667,PG,Clay Kaytis|Fergal Reilly,2016,107506776,Animation
+512,672,PG-13,Bill Duke,2009,10572742,Drama
+513,673,PG,Mike Tollin|Michael Tollin,2003,52277485,Drama
+514,674,R,William Friedkin,2012,1800000,Comedy
+523,685,R,Philip Seymour Hoffman,2010,300000,Comedy
+524,686,PG-13,Stuart Beattie,2014,15687400,Horror
+527,689,R,Paul Thomas Anderson,2015,6100613,Drama
+545,714,R,Seth MacFarlane,2015,63883740,Comedy
+546,715,R,Gary Fleder,2001,54218420,Drama
+568,738,R,Nick Murphy,2012,175088,Art House and International
+584,755,PG-13,Richard Donner,2003,19375474,Action and Adventure
+585,756,R,Brad Furman,2016,15425870,Drama
+597,771,PG-13,Jason Friedberg|Aaron Seltzer,2008,38200000,Comedy
+599,773,R,Vincent Gallo,1998,2365931,Art House and International
+603,779,R,Goran Dukic,2007,231512,Art House and International
+605,782,R,Martin McDonagh,2017,52000189,Comedy
+606,783,R,Sylvester Stallone,2010,102981571,Action and Adventure
+611,788,R,Michael Showalter,2016,14443077,Drama
+622,804,R,Barry Levinson,2015,1940202,Drama
+624,806,R,Danny Leiner,2006,39712,Comedy
+631,814,PG-13,Stephen Herek,2002,14400987,Comedy
+632,815,R,Sam Mendes,2008,22877808,Drama
+633,816,PG,Anthony Bell|Ben Gluck|Benjamin Gluck,2010,25077977,Action and Adventure
+649,833,PG-13,Kyle Newman,2008,700000,Action and Adventure
+657,841,PG-13,Steven Spielberg,2005,234141872,Action and Adventure
+659,845,R,Werner Herzog,2009,1616556,Drama
+660,846,PG-13,Tim Disney,2009,465786,Drama
+662,848,R,Peter Webber,2007,27503677,Drama
+664,850,R,Ang Lee,2016,1736708,Drama
+670,858,R,Jed Weintrob,2003,25658,Drama
+674,862,PG-13,Anthony Russo|Joe Russo,2006,75604320,Comedy
+675,863,R,Harmony Korine,2013,13900000,Action and Adventure
+683,873,R,Robert Pulcini|Shari Springer Berman,2010,453079,Comedy
+690,883,PG-13,Jay Roach,2004,279167575,Comedy
+691,884,R,Richard Rush,1974,8300,Action and Adventure
+692,887,R,Charles Shyer,2004,13351235,Comedy
+697,895,NR,Eric England,2013,3328,Drama
+702,901,G,Jacques Cluzaud|Jacques Perrin,2010,19000000,Documentary
+704,903,G,James Cameron,2003,16302332,Comedy
+732,940,PG-13,Robert Schwentke,2005,89602378,Action and Adventure
+740,952,R,Cyrus Nowrasteh,2009,519730,Drama
+744,961,R,Roman Coppola,2002,301194,Comedy
+747,964,NR,Jonathan Challis|Susan Crook|John Coffey|Ian Lynch,2012,104286,Documentary
+752,970,R,Francis Veber,2001,4519967,Art House and International
+755,973,R,Andrzej Bartkowiak,2005,28031250,Action and Adventure
+758,976,R,Patty Jenkins,2004,34187787,Drama
+762,981,R,Jesse Dylan,2001,31155435,Comedy
+778,1006,R,Neil Jordan,2007,36800000,Action and Adventure
+782,1011,R,Steven Quale,2011,42500000,Horror
+784,1014,PG,Gary Winick,2010,53021560,Comedy
+787,1017,PG-13,David Fincher,2008,127490802,Drama
+804,1038,PG-13,Donald Petrie,2003,105765605,Comedy
+807,1044,R,George Hickenlooper,2007,1566027,Drama
+816,1055,R,Danis Tanovic,2001,948054,Art House and International
+827,1071,R,Mel Gibson,2004,368000000,Drama
+832,1077,PG-13,Steven Spielberg,1993,45299680,Action and Adventure
+835,1080,PG-13,Maggie Greenwald,2001,1634064,Drama
+838,1083,PG-13,Michel Hazanavicius,2011,44667095,Comedy
+839,1084,R,Gia Coppola,2014,406235,Drama
+845,1092,PG-13,Bryan Singer,2008,82989109,Drama
+858,1108,R,Rob Schmidt,2003,15176515,Horror
+860,1112,PG,Hirokazu Koreeda,2016,466986,Drama
+861,1113,R,George Gallo,2010,723714,Comedy
+868,1122,R,Lynn Shelton,2013,35966,Drama
+877,1136,PG-13,Peter Jackson,2012,303001229,Action and Adventure
+880,1140,R,Jeff Tremaine,2002,64209101,Comedy
+882,1143,PG,Paul Feig,2004,252018,Drama
+888,1149,PG,Alex Kendrick|Stephen Kendrick,2006,10127352,Drama
+889,1150,PG-13,Trent Cooper,2006,15655665,Comedy
+893,1155,PG-13,Matt Tynauer|Matt Tyrnauer,2009,1569618,Documentary
+899,1162,R,Glenn Ficarra|John Requa,2016,18356529,Comedy
+905,1169,PG-13,David Gelb,2015,20467547,Horror
+913,1180,PG,Henry Selick|Tim Burton,1993,8616662,Animation
+914,1182,PG,Kenny Ortega,2009,71844424,Documentary
+915,1183,R,Sofia Coppola,2003,44566004,Comedy
+927,1200,R,Andrew Dominik,2007,3900000,Action and Adventure
+933,1210,PG-13,Gary David Goldberg,2005,43800000,Comedy
+944,1223,PG-13,Peyton Reed,2006,118683135,Comedy
+955,1236,R,Ewan McGregor,2016,541457,Drama
+956,1237,PG-13,Douglas McGrath,2011,9500000,Comedy
+958,1239,G,Frank Nissen,2005,18013938,Animation
+961,1243,PG-13,Thomas Carter,2005,67169549,Drama
+967,1256,R,Marc Forster,2005,3349167,Drama
+970,1260,NR,Erik Gandini,2009,363,Documentary
+972,1263,PG-13,Daniel Taplitz,2004,11827301,Comedy
+974,1265,PG-13,Lawrence Kasdan,2012,793352,Comedy
+977,1268,R,Jacob Aaron Estes,2012,63595,Comedy
+986,1279,PG,Paul Feig,2006,16614132,Comedy
+995,1288,PG,Steve Carr,2009,146336178,Comedy
+999,1292,R,Lisa Cholodenko,2003,3596939,Art House and International
+1001,1295,PG,Robert Stromberg,2014,190871149,Science Fiction and Fantasy
+1007,1305,PG,Steve Oedekerk,2006,72601713,Animation
+1008,1307,PG-13,Sacha Gervasi,2012,6002708,Drama
+1016,1317,PG-13,Joe Roth,2001,93008426,Comedy
+1019,1320,R,Curtis Hanson,2002,116638030,Drama
+1020,1321,PG-13,Tate Taylor,2014,22838662,Drama
+1030,1334,PG-13,Youssef Delara,2016,320676,Comedy
+1033,1337,PG-13,Paul Weitz,2006,7156725,Comedy
+1035,1339,PG,Eleanor Coppola,2017,5617321,Comedy
+1036,1340,PG-13,Brian Robbins,2004,10279192,Comedy
+1037,1341,PG,Brian Levant,2002,81110575,Action and Adventure
+1038,1342,PG,Uli Edel|Ulrich Edel,2000,13432508,Action and Adventure
+1054,1362,PG-13,Mike Binder,2015,15504419,Drama
+1066,1376,PG-13,Peter Billingsley,2009,109176215,Comedy
+1071,1381,R,Judd Apatow,2007,148734225,Comedy
+1073,1383,PG,Walt Becker,2015,66580191,Animation
+1087,1398,PG,David Nixon|Patrick Doughtie,2010,1121000,Drama
+1088,1399,R,Trey Edward Shults,2017,13985117,Drama
+1102,1418,G,Peter Lord|Nick Park,2000,106604314,Action and Adventure
+1104,1420,R,Miguel Arteta,2002,13737564,Comedy
+1106,1424,PG-13,Andrew Stanton|Mark Atkins,2012,73058679,Action and Adventure
+1117,1442,PG,Chris Columbus,2002,261835892,Kids and Family
+1121,1446,PG-13,Jay Roach,2000,164454835,Comedy
+1134,1463,R,Kevin Smith,2001,29885424,Comedy
+1145,1475,PG,David Bowers,2009,19548064,Action and Adventure
+1151,1483,R,Jocelyn Moorhouse,2016,2021399,Drama
+1154,1486,NR,Louis Malle,1958,109257,Art House and International
+1156,1488,G,Ben Stassen,2008,13592311,Animation
+1159,1492,PG-13,Michael Salomon|Mikael Salomon,2008,586242,Comedy
+1161,1494,R,David Fincher,2011,102515793,Drama
+1163,1496,PG-13,Rob Marshall,2005,57000000,Drama
+1173,1507,PG,Fred Savage,2007,13155823,Comedy
+1178,1512,R,Paul Verhoeven,1990,119000000,Action and Adventure
+1182,1517,PG,Barry Levinson,2006,37442180,Comedy
+1185,1520,PG-13,Shana Feste,2011,20218921,Drama
+1187,1523,PG-13,Steven Soderbergh,2017,27696504,Comedy
+1188,1525,PG-13,Sam Mendes,2012,299300000,Action and Adventure
+1190,1527,PG-13,Donald Petrie,2004,14244145,Comedy
+1191,1528,R,Dan Mazer,2013,5851913,Art House and International
+1197,1535,PG-13,John Singleton,2003,127083765,Action and Adventure
+1202,1542,R,Jonathan Liebesman,2006,39418953,Horror
+1203,1545,PG-13,Joe Wright,2009,31670931,Drama
+1208,1554,G,Britt Allcroft,2000,2027042,Kids and Family
+1212,1561,R,Edgar Wright,2013,33408732,Comedy
+1213,1564,PG-13,Nicholas Jasenovec,2009,1149350,Comedy
+1215,1567,NC17,John Waters,2004,1260219,Comedy
+1220,1574,R,Maggie Carey,2013,3400000,Comedy
+1229,1585,PG-13,Andrew Tennant|Andy Tennant,2005,177575142,Comedy
+1231,1588,PG-13,Christopher Nolan,2006,53100000,Action and Adventure
+1232,1591,NR,Haim Tabakman,2010,463914,Art House and International
+1237,1600,PG-13,Bryan Singer,2003,214813155,Action and Adventure
+1238,1601,PG,Gore Verbinski,2011,123188232,Action and Adventure
+1239,1602,PG,Kasi Lemmons,2013,4894004,Drama
+1243,1606,R,Gus Van Sant,2007,241672,Art House and International
+1248,1611,PG-13,Julian Jarrold,2015,1626909,Art House and International
+1254,1618,PG-13,Yimou Zhang,2004,10928042,Action and Adventure
+1269,1639,NR,Jeanne Labrune,2011,8856,Art House and International
+1274,1644,PG-13,Lawrence Kasdan,1985,33200000,Action and Adventure
+1275,1645,R,David Mackenzie,2016,26973524,Drama
+1276,1646,R,Alexander Payne,2013,11348612,Drama
+1284,1657,NR,Dante Lam,2018,1526248,Action and Adventure
+1289,1665,R,Mark Neveldine|Brian Taylor,2009,13630226,Action and Adventure
+1297,1677,PG,Tim McCanlies,2003,41407470,Comedy
+1300,1680,R,Josh Mond,2015,101368,Drama
+1302,1682,PG-13,Clint Eastwood,2018,35003216,Drama
+1304,1685,R,Nick Cassavetes,2007,15133185,Drama
+1307,1690,PG,Ron Clements|John Musker,2002,38120554,Action and Adventure
+1310,1693,PG-13,Ryan Little,2008,549351,Drama
+1311,1695,PG-13,Paul Greengrass,2004,176049130,Action and Adventure
+1321,1707,PG-13,John Stockwell,2005,18472363,Action and Adventure
+1323,1711,G,Garry Marshall,2004,95111012,Comedy
+1327,1716,NR,Claude Gagnon,1992,32000000,Drama
+1328,1718,PG-13,Ryan Coogler,2015,81157671,Drama
+1330,1721,R,Kelly Fremon Craig,2016,14260193,Comedy
+1331,1722,PG-13,Justin Lin,2011,209805005,Action and Adventure
+1353,1747,R,Will Canon,2011,16632,Drama
+1361,1757,PG-13,Trish Sie,2014,13617501,Drama
+1376,1775,R,Kasi Lemmons,2007,4436352,Action and Adventure
+1378,1777,R,Joel Coen|Ethan Coen,2007,74223625,Action and Adventure
+1386,1788,PG,Jane Campion,2009,4341275,Drama
+1393,1798,PG,Ash Brannon,2017,9404922,Animation
+1396,1801,PG-13,Peter Weir,2011,2500000,Drama
+1402,1808,R,Sean Penn,2007,18173360,Action and Adventure
+1413,1822,PG-13,James Marsh,2011,410077,Art House and International
+1421,1832,R,Danny Boyle,2017,2395410,Drama
+1424,1837,PG,Julian Jarrold,2007,18602895,Drama
+1425,1839,PG,Lucy Walker,2017,118253,Documentary
+1429,1844,R,Trey Parker,2004,32700000,Comedy
+1440,1857,R,David Twohy,2009,15536310,Action and Adventure
+1442,1859,R,Andrzej Bartkowiak,2003,34600000,Action and Adventure
+1445,1862,PG-13,Benson Lee,2013,8888355,Drama
+1448,1865,R,Craig Brewer,2007,9262318,Drama
+1458,1877,PG-13,Peter Berg,2008,227946274,Action and Adventure
+1464,1884,PG-13,David Zucker,2006,90672025,Comedy
+1469,1890,R,Conrad Vernon|Greg Tiernan,2016,97661826,Animation
+1475,1898,R,Daniel Lee,2015,72413,Action and Adventure
+1492,1922,PG-13,Keenen Ivory Wayans,2006,58255287,Comedy
+1499,1931,PG-13,Peter Landesman,2017,766428,Drama
+1500,1932,PG-13,Tom Dey,2006,88658172,Comedy
+1502,1935,PG-13,Alex Proyas,2004,144738046,Action and Adventure
+1506,1940,R,Harald Zwart,2001,5689784,Comedy
+1510,1944,PG-13,Michel Gondry,2011,98000000,Action and Adventure
+1511,1945,PG,Bobby Farrelly|Peter Farrelly,2012,41800000,Comedy
+1518,1953,R,Ricki Stern|Anne Sundberg,2010,2927972,Comedy
+1526,1962,PG-13,Ridley Scott,2003,36873198,Comedy
+1528,1965,G,Robert Ramirez,2004,2782548,Animation
+1530,1968,PG,Cameron Crowe,2011,72700000,Comedy
+1536,1975,NR,Vikramaditya Motwane,2013,581813,Drama
+1537,1976,NR,Ciro Guerra,2016,1320005,Action and Adventure
+1541,1980,PG-13,Joss Whedon,2005,25335935,Action and Adventure
+1542,1981,NR,Gauri Shinde,2012,1416189,Comedy
+1545,1985,R,Sebastian Gutierrez,2007,59371,Horror
